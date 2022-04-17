@@ -1,0 +1,381 @@
+* {
+	margin: 0;
+	font-family: monospace;
+}
+html{
+	width: 100vw;
+}
+body{
+	width: 100vw;
+}
+.error {
+	color: red;
+}
+.hidden {
+	display: none;
+}
+.topCollapse{
+	display: none;
+	background: #8cd3b1;
+	font-size: 30px;
+	padding: 5px;
+	color: white;
+	position: relative;
+	margin-bottom: 10px;
+	box-shadow: 0 2px 2px rgba(0,0,0,.5);
+	height: 40px;
+	line-height: 40px;
+	width: 100vw;
+	justify-content: space-between
+}
+.topCollapse a {
+	color: black;
+	text-decoration: none;
+	margin-left: 5px;
+}
+.topCollapse button{
+	height:	40px;
+	width: 40px;
+	color: black;
+	background: transparent;
+	border: 0;
+	padding: 0;
+	margin-right: 3vw;
+}
+#collapse{
+	background: #70a98e;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	box-shadow: inset 0 -2px 2px rgba(0,0,0,.5);
+	font-size: 30px;
+}
+#collapse ul{
+	list-style: none;
+	padding: 10px;
+}
+#collapse ul li {
+	padding: 10px;
+	color: black;
+}
+#collapse ul li form{
+	display: flex;
+}
+#collapse ul li input{
+	height: 36px;
+	font-size: 25px;
+	border: 0;
+	border-radius: 5px;
+	margin-right: 0;
+}
+#collapse ul li input:nth-of-type(1){
+	border-radius: 8px 0 0 8px;
+	padding-left: 8px;
+}
+#collapse ul li input[type="submit"]{
+	color: black;
+	background: #8cd3b1;
+	border-radius: 0 8px 8px 0;
+}
+#collapse .local a{
+	color: black;
+	text-decoration: none;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#collapse .local a.selected{
+	background: black;
+	color: #70a98e;
+	border-radius: 4px;
+}
+.top {
+	background: #8cd3b1;
+	display: flex;
+	font-size: 20px;
+	padding: 5px;
+	color: black;
+	position: relative;
+	margin-bottom: 10px;
+	box-shadow: 0 2px 2px rgba(0,0,0,.5)
+}
+.top a {
+	color: black;
+	text-decoration: none;
+}
+.top .local a{
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.top .local a:hover{
+	font-weight: bold;
+}
+.top .local{
+	position: absolute;
+	right: 10px;
+	top: 3px;
+	
+}
+.top .selected{
+	background: black;
+	color: #8cd3b1;
+	font-weight: bold;
+	border-radius: 4px;
+}
+	/* cards */
+.comics{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	column-gap: 10px;
+	row-gap: 10px;
+	width: 90%;
+	margin: 0 auto;
+}
+a.comicCard{
+	background: #444;
+	border-radius: 10px;
+	overflow: hidden;
+	position: relative;
+	transition: all 400ms;
+	width: 100%;
+	text-decoration: none;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+}
+a.comicCard:hover{
+	
+	transform: scale(103%);
+}
+a.comicCard:hover .comicNumb,a.comicCard:hover .comicName{
+	background: rgba(0,0,0,.5)
+}
+.comicNumb{
+	transition: all 400ms;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,.3);
+	padding: .3rem;
+	color: white;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.comicName{
+	transition: all 400ms;
+	color: white;
+	padding: 4px;
+	font-size: 20px;
+	position: absolute;
+	bottom: 0;
+	background: rgba(0,0,0,.3);
+	width: 100%;
+}
+.thumb{
+	width: 100%;
+}
+@media (min-width: 1001px) {
+	#collapse {
+		display: none;
+	}
+}
+@media (max-width: 1200px) {
+	.comics{
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+@media (max-width: 1000px) {
+	.top{
+		display: none;
+	}
+	.topCollapse{
+		display: flex;
+	}
+}
+@media (max-width: 800px) {
+	.comics{
+		grid-template-columns: 1fr 1fr;
+	}
+}
+/* comics */
+.comic {
+	text-align: center;
+	width: 100%;
+}
+.comic img{
+	max-width: 608px;
+	width: 100%;
+	border: 2px solid black;
+}
+/*
+body{
+	padding-top: 50px;
+	
+}
+
+.top, .topCollapse {
+	text-align: left;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #444;
+	padding: 5px;
+	padding-left: 10px;
+	width: 100%;
+	max-width: 100vw;
+	margin-right: 20px;
+	height: 2rem;
+	color: white;
+	font-size: 20px;
+	box-shadow: 0px 2px 2px rgba(0,0,0,.5);
+	z-index: 2;
+}
+.top a, .topCollapse a{
+	color: white;
+}
+.topCollapse{
+	position: relative;
+	margin-bottom: 5px;
+}
+.topCollapse ul{
+	list-style: none;
+	padding: 0;
+}
+.toTop {
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+	width: 50px;
+	height: 50px;
+	background: green;
+	border-radius: 50px;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	text-decoration: none;
+	padding: 0;
+	line-height: 50px;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.5);
+}
+#collapse{
+	transition: all 400ms;
+	overflow: hidden;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+button {
+	color: white;
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	margin: auto 0;
+	position: absolute;
+	right: 20px;
+	top: 0;
+}
+
+.topCollapse ul{
+	width: 100%;
+}
+.topCollapse ul li{
+	padding: 5px;
+	background: #222;
+}
+.local{
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	right:25px;
+}
+.nav{
+	font-size: 20px;
+	margin: 10px;
+}
+.top form, .topCollapse form{
+	display: inline-block;
+}
+.error{
+	color: red;
+}
+input[type='number']{
+	width: 60px;
+}
+
+
+.card{
+	background: #444;
+	width: 21vw;
+	border-radius: 10px;
+	overflow: hidden;
+	position: relative;
+	transition: all 400ms;
+}
+a.comicCard{
+	text-decoration: none;
+		margin: .5vw;
+}
+a.comicCard:hover{
+	box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+	transform: scale(103%);
+}
+a.comicCard:hover .comicNumb,a.comicCard:hover .comicName{
+	background: rgba(0,0,0,.5)
+}
+.comicNumb{
+	transition: all 400ms;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,.3);
+	padding: 6px;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+.comicName{
+	transition: all 400ms;
+	color: white;
+	padding: 4px;
+	font-size: 20px;
+	position: absolute;
+	bottom: 0;
+	background: rgba(0,0,0,.3);
+	width: 100%;
+}
+.thumb{
+	width: 100%;
+}
+@media (max-width: 1000px) {
+	.card {
+		width: 31vw;
+	}
+	.top {
+		display: none;
+	}
+	body{
+		padding: 0;
+	}
+}
+@media (max-width: 700px) {
+	.card {
+		width: 46vw;
+	}
+}
+
+.comic{
+	text-align: center;
+}
+.comic img{
+margin-bottom: 10px;	
+}
+div.info{
+
+}
+div.nav{
+	position: fixed;
+	margin: 0;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+	background: white;
+}*/
