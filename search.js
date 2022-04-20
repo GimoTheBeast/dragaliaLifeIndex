@@ -27,7 +27,7 @@ async function init() {
 		})
 		
 	let navHeader = document.querySelector(".top")
-	let navHTML = "<a href='index.html?lan=" + lan + "'> Dragalia Comic Index</a> | <form action='search.html'><input type='text' name='cq' placeholder='Search...'><input type='hidden' name='lan' value='" + lan + "'></form> | Jump to Comic: <form action='comic.html'><input type='number' name='no' placeholder='Comic Number' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
+	let navHTML = "<a href='index.html?lan=" + lan + "'> Dragalia Comic Index</a> | <form action='search.html'><input type='text' name='cq' placeholder='Search...'><input type='hidden' name='lan' value='" + lan + "'></form> | <form action='comic.html'><input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
 	navHeader.innerHTML = navHTML + navHeader.innerHTML
 	
 	let localOutput = '<a href="index.html?lan=en" ' + `${lan == "en" ? 'class="selected"' : 'class'}` + '>ENG</a> <a href="index.html?lan=jp" ' + `${lan == "jp" ? 'class="selected"' : 'class'}` + '>日本語</a> <a href="index.html?lan=chs" ' + `${lan == "chs" ? 'class="selected"' : 'class'}` + '>简</a> <a href="index.html?lan=cht" ' +  `${lan == "cht" ? 'class="selected"' : 'class'}` + '> 繁</a>'
@@ -54,7 +54,7 @@ function search(){
 	}
 	document.querySelector("#name").innerHTML = "<h2>Comics with\u00A0<b>" + query + "</b>\u00A0in the name:</h2><div class='comics'></div>"
 	if (nameSearchOutput.length == 0){
-		document.querySelector("#name .comics").innerHTML = "No comics found containing \"<b>" + query + "</b>\""
+		document.querySelector("#name").innerHTML += "No comics found containing \"<b>" + query + "</b>\""
 	}
 	for (i = 0; i < nameSearchOutput.length; i++){
 		let name = comicObject[nameSearchOutput[i]][targetLocal]
@@ -82,7 +82,7 @@ function search(){
 	}
 	document.querySelector("#char").innerHTML = "<h2>Comics featuring <b>" + query + "</b>:</h2><div class='comics'></div>"
 	if (!characterResult) {
-		document.querySelector("#char .comics").innerHTML += "No Character with the name \u00A0<b>\"" + query + "\"</b>\u00A0 was found."
+		document.querySelector("#char").innerHTML += "<span>No Character with the name <b>\"" + query + "\"</b> was found.</span>"
 	}
 	else {
 		for(i = 0; i < comicArray.length; i++){
