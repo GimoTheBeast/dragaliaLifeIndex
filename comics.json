@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "001": {
     "enName": "The Dragon Choosing",
@@ -5225,4 +5226,5233 @@
 	  "Albert"
     ]
   }
+=======
+{
+  "001": {
+    "enName": "The Dragon Choosing",
+    "jpName": "出発！「選竜の試練」！",
+    "chsName": "出发！“选龙试炼”！",
+    "chtName": "出發！「選龍之試煉」！",
+    "characters": [
+      "Euden",
+      "Zethia",
+      "Notte",
+      "Agni",
+      "Poliʻahu",
+      "Cinder Drake"
+    ]
+  },
+  "002": {
+    "enName": "Euden: Prince on a Mission",
+    "jpName": "使命の王子、ユーディル",
+    "chsName": "背负使命的王子——尤蒂尔",
+    "chtName": "身負使命的王子‧尤帝爾",
+    "characters": [
+      "Euden",
+      "Notte",
+      "Zethia"
+    ]
+  },
+  "003": {
+    "enName": "Notte: Fated Faerie Companion",
+    "jpName": "元気いっぱい！妖精ナーム",
+    "chsName": "元气满满的精灵纳姆",
+    "chtName": "元氣滿分！妖精那姆",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Zethia"
+    ]
+  },
+  "004": {
+    "enName": "Zethia: Altruistic Auspex",
+    "jpName": "誰より優しい巫女ゼシア",
+    "chsName": "无比温柔的巫女 塞西娅",
+    "chtName": "無比溫柔的巫女‧潔西雅",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Zethia"
+    ]
+  },
+  "005": {
+    "enName": "Elisanne's Secret",
+    "jpName": "エルフィリスの好きなもの",
+    "chsName": "埃尔菲莉丝的喜爱之物",
+    "chtName": "耶魯菲莉絲所喜歡的東西",
+    "characters": [
+      "Elisanne",
+      "Euden"
+    ]
+  },
+  "006": {
+    "enName": "Can't Stand the Heat, Ranzal",
+    "jpName": "あつくないもん！ランザーヴ",
+    "chsName": "才不烫啊！兰扎卜",
+    "chtName": "一點都不燙啊！蘭薩弗",
+    "characters": [
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "007": {
+    "enName": "Ezelith's Many Talents",
+    "jpName": "なんでもできちゃうエゼリット",
+    "chsName": "无所不能的艾赛莉特",
+    "chtName": "無所不能的葉潔莉特",
+    "characters": [
+      "Ranzal",
+      "Ezelith"
+    ]
+  },
+  "008": {
+    "enName": "A Home Fit for a King",
+    "jpName": "アレクシス、部屋が欲しい",
+    "chsName": "阿莱克西斯 想要自己的房间",
+    "chtName": "亞雷克西斯，想要自己的房間",
+    "characters": [
+      "Ranzal",
+      "Xander"
+    ]
+  },
+  "009": {
+    "enName": "Leave It to Cleo",
+    "jpName": "クラウにおまかせ",
+    "chsName": "交给库菈乌吧",
+    "chtName": "交給克菈兒吧！",
+    "characters": [
+      "Cleo",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "010": {
+    "enName": "Luca's Tell",
+    "jpName": "正直者リュカ",
+    "chsName": "“诚实”的卢卡",
+    "chtName": "口嫌耳正直的琉卡",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Luca",
+      "Ranzal",
+      "Cleo"
+    ]
+  },
+  "011": {
+    "enName": "Lonesome Nefaria",
+    "jpName": "ひとりぼっちのネファリエ",
+    "chsName": "孤身一人的奈法利耶",
+    "chtName": "孤單一人的涅法莉耶",
+    "characters": [
+      "Notte",
+      "Nefaria",
+      "Elisanne",
+      "Euden",
+      "Ranzal",
+      "Luca",
+      "Cleo"
+    ]
+  },
+  "012": {
+    "enName": "Lily on Ice",
+    "jpName": "アイスガール・リリィ",
+    "chsName": "寒冰少女莉莉",
+    "chtName": "冰晶女孩莉莉",
+    "characters": [
+      "Ranzal",
+      "Lily"
+    ]
+  },
+  "013": {
+    "enName": "Orsem the Skate King",
+    "jpName": "スケート大好き！オルセム",
+    "chsName": "最爱滑冰的奥尔森！",
+    "chtName": "最愛滑冰的歐爾塞姆！",
+    "characters": [
+      "Orsem",
+      "Euden",
+      "Notte",
+      "Ranzal",
+      "Cleo",
+      "Luca"
+    ]
+  },
+  "014": {
+    "enName": "Great Trainer Celliera",
+    "jpName": "育て上手セリエラ",
+    "chsName": "训练有方的赛丽艾拉",
+    "chtName": "教導有方的榭葉拉",
+    "characters": [
+      "Celliera",
+      "Luca",
+      "Euden"
+    ]
+  },
+  "015": {
+    "enName": "Mikoto and the Lost Kitty",
+    "jpName": "ミコト、猫を探す",
+    "chsName": "寻猫的米科特",
+    "chtName": "尊，尋找愛貓",
+    "characters": [
+      "Euden",
+      "Mikoto"
+    ]
+  },
+  "016": {
+    "enName": "Julietta, One Tough Cookie",
+    "jpName": "つよがりジュリエッタ",
+    "chsName": "逞强的朱丽叶",
+    "chtName": "愛逞強的朱莉葉塔",
+    "characters": [
+      "Euden",
+      "Julietta",
+      "Elisanne",
+      "Ranzal",
+      "Cleo"
+    ]
+  },
+  "017": {
+    "enName": "Emile's One-Man Show",
+    "jpName": "エミュールの一人劇場",
+    "chsName": "艾缪尔的个人剧场",
+    "chtName": "埃米爾的一人劇場",
+    "characters": [
+      "Emile"
+    ]
+  },
+  "018": {
+    "enName": "Tricky Treats",
+    "jpName": "いたずらはほどほどに",
+    "chsName": "恶作剧要适可而止",
+    "chtName": "惡作劇要適可而止",
+    "characters": [
+      "Luca",
+      "Elisanne",
+      "Edward"
+    ]
+  },
+  "019": {
+    "enName": "Honest Althemia",
+    "jpName": "イルテミアは素直？",
+    "chsName": "伊露缇米娅很坦率？",
+    "chtName": "伊兒提米亞很老實？",
+    "characters": [
+      "Euden",
+      "Althemia",
+      "Luca",
+      "Ranzal"
+    ]
+  },
+  "020": {
+    "enName": "The Hunt Is On",
+    "jpName": "ウルガと王子と干肉と",
+    "chsName": "乌尔嘉、王子、肉干",
+    "chtName": "烏路嘉與王子與肉乾",
+    "characters": [
+      "Euden",
+      "Rawn"
+    ]
+  },
+  "021": {
+    "enName": "Harle's Magic Show",
+    "jpName": "ハール・マジックショウ",
+    "chsName": "哈尔魔术秀",
+    "chtName": "哈魯的魔術秀",
+    "characters": [
+      "Emile",
+      "Harle"
+    ]
+  },
+  "022": {
+    "enName": "Amane's Proof",
+    "jpName": "アマネさまの証拠",
+    "chsName": "天音大人的证据",
+    "chtName": "天音大人的證據",
+    "characters": [
+      "Ranzal",
+      "Amane",
+      "Cleo"
+    ]
+  },
+  "023": {
+    "enName": "Leif's Cure",
+    "jpName": "リーフ、心配する",
+    "chsName": "利弗 甚是担心",
+    "chtName": "李弗很擔心",
+    "characters": [
+      "Emile",
+      "Leif",
+      "Harle"
+    ]
+  },
+  "024": {
+    "enName": "Naveed the Merchant",
+    "jpName": "高級男ナジャーフ",
+    "chsName": "高贵男子纳杰夫",
+    "chtName": "高級男子納杰夫",
+    "characters": [
+      "Naveed",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "025": {
+    "enName": "Dynamite Sinoa",
+    "jpName": "爆炎のシノア",
+    "chsName": "爆炎希诺亚",
+    "chtName": "爆炎筱婭",
+    "characters": [
+      "Sinoa",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "026": {
+    "enName": "Melsa's Marvelous Mind",
+    "jpName": "メルサ、暗記の鬼",
+    "chsName": "记忆力惊人的梅露莎",
+    "chtName": "記憶力驚人的梅兒莎",
+    "characters": [
+      "Melsa",
+      "Elisanne",
+      "Ranzal",
+      "Luca"
+    ]
+  },
+  "027": {
+    "enName": "Well-Mannered Maribelle ",
+    "jpName": "突撃！メリィベル",
+    "chsName": "梅莉贝尔突击！",
+    "chtName": "梅莉貝爾的突擊！",
+    "characters": [
+      "Ranzal",
+      "Cleo",
+      "Maribelle"
+    ]
+  },
+  "028": {
+    "enName": "Xainfried the Aegis",
+    "jpName": "竜を守るザインフラッド",
+    "chsName": "龙之守护者扎因弗拉德",
+    "chtName": "龍之守護者塞因福蘭德",
+    "characters": [
+      "Euden",
+      "Xainfried"
+    ]
+  },
+  "029": {
+    "enName": "Hildegarde the Naive",
+    "jpName": "ほんろうされるヒルデガルド",
+    "chsName": "被骗的希尔德加德",
+    "chtName": "被愚弄的赫德嘉",
+    "characters": [
+      "Euden",
+      "Mym",
+      "Hildegarde",
+      "Ranzal"
+    ]
+  },
+  "030": {
+    "enName": "Loving Louise",
+    "jpName": "ルイーゼと姉弟の思い出",
+    "chsName": "洛依泽与姐弟间的回忆",
+    "chtName": "路易潔與姊弟的回憶",
+    "characters": [
+      "Louise",
+      "Lowen",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "031": {
+    "enName": "Lowen the Acrophobic",
+    "jpName": "ぶるぶるルーエン",
+    "chsName": "颤抖的卢恩",
+    "chtName": "顫抖的路恩",
+    "characters": [
+      "Lowen",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "032": {
+    "enName": "Hawk the Master Archer",
+    "jpName": "弓の名手！ホーク",
+    "chsName": "射箭高手霍克",
+    "chtName": "名弓箭手！霍克",
+    "characters": [
+      "Luca",
+      "Hawk"
+    ]
+  },
+  "033": {
+    "enName": "Sarisse the Gravedigger",
+    "jpName": "リュカの妹、シーリス",
+    "chsName": "卢卡的妹妹希里丝",
+    "chtName": "琉卡的妹妹‧西莉絲",
+    "characters": [
+      "Luca",
+      "Sarisse",
+      "Ranzal",
+      "Cleo"
+    ]
+  },
+  "034": {
+    "enName": "Captain Karina's Secret",
+    "jpName": "カーリナ船長のひみつ",
+    "chsName": "卡丽娜船长的秘密",
+    "chtName": "卡麗娜船長的秘密",
+    "characters": [
+      "Karina",
+      "Euden"
+    ]
+  },
+  "035": {
+    "enName": "Brunhilda's Love",
+    "jpName": "ブリュンヒルデの愛",
+    "chsName": "布伦希尔德的爱",
+    "chtName": "布倫希爾德的愛",
+    "characters": [
+      "Brunhilda",
+      "Euden",
+      "Mym"
+    ]
+  },
+  "036": {
+    "enName": "The Mysterious Berserker",
+    "jpName": "男のロマンベルザーク",
+    "chsName": "男人的浪漫 贝尔扎克",
+    "chtName": "男人的羅曼‧貝爾薩克",
+    "characters": [
+      "Notte",
+      "Berserker",
+      "Euden"
+    ]
+  },
+  "037": {
+    "enName": "Lucretia the Crooner",
+    "jpName": "楽しく歌おうルクレツィア",
+    "chsName": "快乐歌唱的卢克雷齐娅",
+    "chtName": "快樂歌唱的歌姬露克雷齊亞",
+    "characters": [
+      "Lucretia",
+      "Elisanne",
+      "Cleo"
+    ]
+  },
+  "038": {
+    "enName": "Egg Breaker Vixel",
+    "jpName": "ヴィクセル、卵を割る",
+    "chsName": "维克塞尔打鸡蛋",
+    "chtName": "魏克賽爾來打蛋",
+    "characters": [
+      "Vixel",
+      "Luca",
+      "Maritimus"
+    ]
+  },
+  "039": {
+    "enName": "Pia's Friends",
+    "jpName": "ピアチェとおともだち",
+    "chsName": "皮雅茜和她的朋友们",
+    "chtName": "琵雅雀和她的朋友",
+    "characters": [
+      "Pia",
+      "Mouse",
+      "Euden"
+    ]
+  },
+  "040": {
+    "enName": "Elias's Weakness",
+    "jpName": "エリアスの興味",
+    "chsName": "埃利亚斯的爱好",
+    "chtName": "耶歷亞斯的興趣",
+    "characters": [
+      "Elias",
+      "Euden",
+      "Maritimus"
+    ]
+  },
+  "041": {
+    "enName": "Verica the Prophet",
+    "jpName": "となりのウェルシェラお姉さん",
+    "chsName": "邻家大姐姐维尔莎拉",
+    "chtName": "隔壁的薇兒謝拉大姐姐",
+    "characters": [
+      "Verica",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "042": {
+    "enName": "Karl, Warrior of Justice",
+    "jpName": "正義のジャスティス、カール",
+    "chsName": "正义使者卡尔",
+    "chtName": "正義的卡爾",
+    "characters": [
+      "Ranzal",
+      "Karl",
+      "Euden",
+      "Cleo"
+    ]
+  },
+  "043": {
+    "enName": "Needling Vanessa",
+    "jpName": "器用なヴァネッサ",
+    "chsName": "心灵手巧的凡妮莎",
+    "chtName": "手巧的凡妮莎",
+    "characters": [
+      "Vanessa",
+      "Elisanne",
+      "Cleo",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "044": {
+    "enName": "Cleo's Yuletide Lesson",
+    "jpName": "クラウ、飾り付ける",
+    "chsName": "库菈乌 装饰点缀",
+    "chtName": "克菈兒來裝飾",
+    "characters": [
+      "Cleo",
+      "Notte",
+      "Xander"
+    ]
+  },
+  "045": {
+    "enName": "Xander all the Way",
+    "jpName": "アレクシス、ソリが欲しい",
+    "chsName": "阿莱克西斯 想要雪橇",
+    "chtName": "亞雷克西斯，想要雪橇",
+    "characters": [
+      "Xander",
+      "Nimis",
+      "Ranzal",
+      "Nefaria",
+      "Cleo"
+    ]
+  },
+  "046": {
+    "enName": "Nefaria the Giving",
+    "jpName": "ネファリエ、プレゼントを配る",
+    "chsName": "奈法利耶发礼物",
+    "chtName": "涅法莉耶送禮物",
+    "characters": [
+      "Nefaria",
+      "Xander",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "047": {
+    "enName": "Valyx's Battle Standard",
+    "jpName": "ヴァルクスの軍旗",
+    "chsName": "巴尔库斯的军旗",
+    "chtName": "范爾克斯的軍旗",
+    "characters": [
+      "Valyx"
+    ]
+  },
+  "048": {
+    "enName": "Aeleen's Hidden Side",
+    "jpName": "優しさ半分、エイル",
+    "chsName": "时而温柔善良的艾露",
+    "chtName": "艾露溫柔的那一半",
+    "characters": [
+      "Aeleen",
+      "Euden",
+      "Cleo"
+    ]
+  },
+  "049": {
+    "enName": "Kleimann Unmasked",
+    "jpName": "クレイマンの仮面",
+    "chsName": "克雷伊曼的面具",
+    "chtName": "苦雷曼的面具",
+    "characters": [
+      "Ranzal",
+      "Kleimann"
+    ]
+  },
+  "050": {
+    "enName": "Ieyasu the Hospitable",
+    "jpName": "イエヤス、おもてなしをする",
+    "chsName": "家康的待客之道",
+    "chtName": "家康的款待之心",
+    "characters": [
+      "Ieyasu",
+      "Elisanne",
+      "Botan"
+    ]
+  },
+  "051": {
+    "enName": "New Year, Old Jokes",
+    "jpName": "あけましておめでとう！",
+    "chsName": "新年快乐！",
+    "chtName": "恭賀新喜！",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Ranzal",
+      "Luca",
+      "Elisanne",
+      "Cleo",
+      "Mym"
+    ]
+  },
+  "052": {
+    "enName": "Sazanka the Playing-Card Queen",
+    "jpName": "サザンカのかるた布教",
+    "chsName": "山茶花的歌牌传教",
+    "chtName": "推廣歌牌的山茶",
+    "characters": [
+      "Sazanka",
+      "Ranzal",
+      "Addis"
+    ]
+  },
+  "053": {
+    "enName": "Addis and Etiquette",
+    "jpName": "アディスの作法",
+    "chsName": "阿迪斯的礼仪",
+    "chtName": "阿迪斯的禮節",
+    "characters": [
+      "Addis",
+      "Luca",
+      "Euden"
+    ]
+  },
+  "054": {
+    "enName": "Botan's Naginata",
+    "jpName": "ボタンとナギナタ",
+    "chsName": "牡丹和薙刀",
+    "chtName": "牡丹與薙刀",
+    "characters": [
+      "Elisanne",
+      "Botan",
+      "Luca"
+    ]
+  },
+  "055": {
+    "enName": "Sharpshootin' Sarisse",
+    "jpName": "的当て上手なシーリス",
+    "chsName": "百步穿杨的希里丝",
+    "chtName": "一箭紅心的西莉絲",
+    "characters": [
+      "Sarisse",
+      "Euden",
+      "Luca"
+    ]
+  },
+  "056": {
+    "enName": "Pucker Up with Annelie",
+    "jpName": "アンネリーエのお礼",
+    "chsName": "安妮利艾的谢礼",
+    "chtName": "安妮李耶的回禮",
+    "characters": [
+      "Notte",
+      "Annelie"
+    ]
+  },
+  "057": {
+    "enName": "Fritz's Special Trick",
+    "jpName": "フリッツの得意技",
+    "chsName": "弗里茨的绝技",
+    "chtName": "菲力茲的拿手絕招",
+    "characters": [
+      "Annelie",
+      "Fritz",
+      "Ranzal",
+      "Moon Drake"
+    ]
+  },
+  "058": {
+    "enName": "A Request for Orion",
+    "jpName": "オリオンへの依頼",
+    "chsName": "俄里翁接到的委托",
+    "chtName": "委託歐里昂",
+    "characters": [
+      "Orion",
+      "Cleo",
+      "Aeleen"
+    ]
+  },
+  "059": {
+    "enName": "Phares the Armorer",
+    "jpName": "ファルエス、鎧を研究する",
+    "chsName": "研究盔甲的法尔艾斯",
+    "chtName": "法魯艾斯，研究盔甲",
+    "characters": [
+      "Phares"
+    ]
+  },
+  "060": {
+    "enName": "Eleonora the Curious",
+    "jpName": "エレオノーラは興味深々",
+    "chsName": "好奇心旺盛的艾蕾欧诺拉",
+    "chtName": "好奇心旺盛的愛蕾諾拉",
+    "characters": [
+      "Eleonora",
+      "Elisanne",
+      "Matilda",
+      "Cleo",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "061": {
+    "enName": "Dancing with Luther",
+    "jpName": "ルタが踊れば",
+    "chsName": "只要卢塔跳舞",
+    "chtName": "只要路塔跳舞",
+    "characters": [
+      "Luther",
+      "Notte",
+      "Euden"
+    ]
+  },
+  "062": {
+    "enName": "Training with Lin You",
+    "jpName": "リンユーのむしゃ修行",
+    "chsName": "林佑的武者修行",
+    "chtName": "燐由的武者修行",
+    "characters": [
+      "Lin You",
+      "Mao Mao",
+      "Euden"
+    ]
+  },
+  "063": {
+    "enName": "A New New Year",
+    "jpName": "今年２回目のお正月",
+    "chsName": "今年第二次新年",
+    "chtName": "今年第２次過新年",
+    "characters": [
+      "Elisanne",
+      "Euden",
+      "Ranzal",
+      "Lin You",
+      "Notte",
+      "Su Fang"
+    ]
+  },
+  "064": {
+    "enName": "Hats Off to Ku Hai",
+    "jpName": "クガイの被り笠",
+    "chsName": "苦海的斗笠",
+    "chtName": "久垓的斗笠",
+    "characters": [
+      "Xiao Lei",
+      "Ku Hai",
+      "Peng Lai"
+    ]
+  },
+  "065": {
+    "enName": "Su Fang, Master of Flash",
+    "jpName": "スオウ、派手さを求める",
+    "chsName": "追求华丽的苏方",
+    "chtName": "講究氣派的蘇歐",
+    "characters": [
+      "Su Fang",
+      "Luca"
+    ]
+  },
+  "066": {
+    "enName": "Buyer Beware",
+    "jpName": "最強！ニーナショップ",
+    "chsName": "最强！妮娜商店！",
+    "chtName": "最強！店員妮娜",
+    "characters": [
+      "Notte",
+      "Elisanne",
+      "Euden",
+      "Nina"
+    ]
+  },
+  "067": {
+    "enName": "Tenacious Thaniel",
+    "jpName": "おさかなセイナー",
+    "chsName": "钓鱼的塞纳",
+    "chtName": "釣魚的瑟那",
+    "characters": [
+      "Euden",
+      "Cleo",
+      "Thaniel"
+    ]
+  },
+  "068": {
+    "enName": "The Nerves!",
+    "jpName": "落ち着かないヒルデガルド",
+    "chsName": "心神不宁的希尔德加德",
+    "chtName": "靜不下心的赫德嘉",
+    "characters": [
+      "Ranzal",
+      "Hildegarde",
+      "Melody"
+    ]
+  },
+  "069": {
+    "enName": "Ezelith Gets Heated",
+    "jpName": "お熱いエゼリット",
+    "chsName": "热情的艾赛莉特",
+    "chtName": "熱情的葉潔莉特",
+    "characters": [
+      "Ezelith",
+      "Orion"
+    ]
+  },
+  "070": {
+    "enName": "Notte My Valentine",
+    "jpName": "ナームのバレンタイン",
+    "chsName": "纳姆的情人节",
+    "chtName": "那姆的情人節",
+    "characters": [
+      "Euden",
+      "Notte",
+      "Cleo",
+      "Elisanne",
+      "Mym"
+    ]
+  },
+  "071": {
+    "enName": "Careless Ol' Ryozen",
+    "jpName": "ついうっかりリョウゼン",
+    "chsName": "冒失鬼梁泉",
+    "chtName": "冒失的瞭禪",
+    "characters": [
+      "Euden",
+      "Ryozen",
+      "Cleo"
+    ]
+  },
+  "072": {
+    "enName": "Feed Me!",
+    "jpName": "ドラゴンに食べさせたいユーディル",
+    "chsName": "想喂食给龙的尤蒂尔",
+    "chtName": "想餵食龍族的尤帝爾",
+    "characters": [
+      "Wellspring Imp",
+      "Euden",
+      "Cleo",
+      "Ranzal"
+    ]
+  },
+  "073": {
+    "enName": "Life as Usual",
+    "jpName": "日常茶飯事です",
+    "chsName": "家常便饭",
+    "chtName": "家常便飯",
+    "characters": [
+      "Euden",
+      "Melody",
+      "Elisanne"
+    ]
+  },
+  "074": {
+    "enName": "Albert's Shocking Talent",
+    "jpName": "ビリビリおじさんアルベール",
+    "chsName": "雷电大叔阿尔贝尔",
+    "chtName": "閃電叔叔阿爾貝爾",
+    "characters": [
+      "Ryozen",
+      "Albert",
+      "Ranzal",
+      "Notte",
+      "Euden"
+    ]
+  },
+  "075": {
+    "enName": "Odetta's New Worlds",
+    "jpName": "オデッタと新しい世界",
+    "chsName": "欧蒂塔与新世界",
+    "chtName": "歐蒂妲與新世界",
+    "characters": [
+      "Odetta",
+      "Elisanne"
+    ]
+  },
+  "076": {
+    "enName": "Felicia and Phantom",
+    "jpName": "フェリーチャとファントム",
+    "chsName": "菲丽嘉与幽影",
+    "chtName": "妃麗恰和魅影",
+    "characters": [
+      "Phantom",
+      "Felicia",
+      "Euden",
+      "Mym"
+    ]
+  },
+  "077": {
+    "enName": "Musashi's Struggle",
+    "jpName": "ムサシ、苦戦する",
+    "chsName": "陷入苦战的武藏",
+    "chtName": "武藏，陷入苦戰",
+    "characters": [
+      "Euden",
+      "Musashi"
+    ]
+  },
+  "078": {
+    "enName": "My Father, Aurelius",
+    "jpName": "パパ、アローラス王",
+    "chsName": "爸爸亚罗拉斯王",
+    "chtName": "爸爸，安羅拉斯王",
+    "characters": [
+      "Aurelius",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "079": {
+    "enName": "Heinwald's Secret Skill",
+    "jpName": "ハインヴァルトと本",
+    "chsName": "海因瓦尔德与书",
+    "chtName": "海因沃爾德與書",
+    "characters": [
+      "Heinwald",
+      "Notte",
+      "Mouse"
+    ]
+  },
+  "080": {
+    "enName": "The Greatest Gift",
+    "jpName": "お返しするなら",
+    "chsName": "回礼",
+    "chtName": "說到回禮的話",
+    "characters": [
+      "Euden",
+      "Midgardsormr",
+      "Althemia",
+      "Jupiter"
+    ]
+  },
+  "081": {
+    "enName": "Curran the Stumbler",
+    "jpName": "かみかみクーガー",
+    "chsName": "口误不断的库格尔",
+    "chtName": "容易結巴的庫豹",
+    "characters": [
+      "Curran",
+      "Cleo",
+      "Heinwald"
+    ]
+  },
+  "082": {
+    "enName": "Team Stealth's Day Out",
+    "jpName": "暗躍組、おでかけする",
+    "chsName": "出门逛街的暗中活动组",
+    "chtName": "出門逛街的暗中活躍組",
+    "characters": [
+      "Euden",
+      "Aoi",
+      "Vice",
+      "Jurota",
+      "Rabbit"
+    ]
+  },
+  "083": {
+    "enName": "A Maiden's Hair",
+    "jpName": "乙女の髪事情",
+    "chsName": "少女们的长发",
+    "chtName": "少女的秀髮煩惱",
+    "characters": [
+      "Elisanne",
+      "Cleo"
+    ]
+  },
+  "084": {
+    "enName": "Excitable Ranzal",
+    "jpName": "はしゃぐランザーヴ",
+    "chsName": "人来疯兰扎卜",
+    "chtName": "興奮過頭的蘭薩弗",
+    "characters": [
+      "Ranzal",
+      "Euden",
+      "Cleo",
+      "Malka"
+    ]
+  },
+  "085": {
+    "enName": "Laranoa's Hobby",
+    "jpName": "慌てるララノア",
+    "chsName": "慌慌张张的拉拉诺亚",
+    "chtName": "慌張的拉拉諾亞",
+    "characters": [
+      "Laranoa",
+      "Cleo",
+      "Luca",
+      "Sarisse",
+      "Sylas"
+    ]
+  },
+  "086": {
+    "enName": "Fleur's Masterpiece",
+    "jpName": "フルルの絵画",
+    "chsName": "芙露露的画",
+    "chtName": "芙露璐的繪畫",
+    "characters": [
+      "Euden",
+      "Ranzal",
+      "Fleur"
+    ]
+  },
+  "087": {
+    "enName": "At Any Age",
+    "jpName": "子供も大人も",
+    "chsName": "其乐融融",
+    "chtName": "不分長幼",
+    "characters": [
+      "Euden",
+      "Cleo",
+      "Pia",
+      "Elias",
+      "Lowen",
+      "Ranzal",
+      "Luca"
+    ]
+  },
+  "088": {
+    "enName": "Speed Kills",
+    "jpName": "焦りは禁物",
+    "chsName": "欲速则不达",
+    "chtName": "焦急沒好事",
+    "characters": [
+      "Euden",
+      "Edward"
+    ]
+  },
+  "089": {
+    "enName": "The Limits of Timidity",
+    "jpName": "小心者は大変",
+    "chsName": "胆小鬼不容易",
+    "chtName": "膽小者真不容易",
+    "characters": [
+      "Cleo",
+      "Ricardt",
+      "Ranzal"
+    ]
+  },
+  "090": {
+    "enName": "The Prince's Great Trial",
+    "jpName": "ユーディル、もう一つの試練",
+    "chsName": "尤蒂尔的新试炼",
+    "chtName": "尤帝爾的另一個試煉",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Elisanne"
+    ]
+  },
+  "091": {
+    "enName": "Sylas's Scents",
+    "jpName": "シャストのアロマ",
+    "chsName": "加斯特的熏香",
+    "chtName": "夏思特的香氣",
+    "characters": [
+      "Sylas",
+      "Laranoa",
+      "Luca"
+    ]
+  },
+  "092": {
+    "enName": "Yue's Bottomless Stomach",
+    "jpName": "たくさん食べるユエ",
+    "chsName": "大胃王悦",
+    "chtName": "大胃王由耶",
+    "characters": [
+      "Yue",
+      "Elisanne"
+    ]
+  },
+  "093": {
+    "enName": "Alex the Assassin",
+    "jpName": "暗殺者、シャノン",
+    "chsName": "暗杀者沙音",
+    "chtName": "暗殺者夏儂",
+    "characters": [
+      "Cleo",
+      "Elisanne",
+      "Alex"
+    ]
+  },
+  "094": {
+    "enName": "Leonidas the Magnificent",
+    "jpName": "華麗なるレオニード様",
+    "chsName": "华丽的莱昂尼多大人",
+    "chtName": "華麗的雷歐尼特大人",
+    "characters": [
+      "Leonidas"
+    ]
+  },
+  "095": {
+    "enName": "Mustache Masters",
+    "jpName": "ひげ自慢",
+    "chsName": "晒胡子",
+    "chtName": "炫耀鬍子",
+    "characters": [
+      "Raemond",
+      "Euden",
+      "Aurelius",
+      "Ryozen",
+      "Cleo"
+    ]
+  },
+  "096": {
+    "enName": "An Apple a Day",
+    "jpName": "お買いもの",
+    "chsName": "外出采购",
+    "chtName": "購物",
+    "characters": [
+      "Elisanne",
+      "Luca"
+    ]
+  },
+  "097": {
+    "enName": "Estelle's Loving Hand",
+    "jpName": "エステルのビンタ",
+    "chsName": "艾丝蒂尔的耳光",
+    "chtName": "愛思蒂兒的巴掌",
+    "characters": [
+      "Estelle",
+      "Luca",
+      "Euden"
+    ]
+  },
+  "098": {
+    "enName": "Mushroom Mischief",
+    "jpName": "楽しいキノコ狩り",
+    "chsName": "高高兴兴采蘑菇",
+    "chtName": "愉快地採蘑菇",
+    "characters": [
+      "Xainfried",
+      "Fydon & Felyx",
+      "Cleo",
+      "Ranzal"
+    ]
+  },
+  "099": {
+    "enName": "The All-Knowing Wind",
+    "jpName": "風は教えてくれる",
+    "chsName": "风儿告诉我",
+    "chtName": "風之教誨",
+    "characters": [
+      "Sophie",
+      "Euden",
+      "Cleo"
+  ]},
+  "100": {
+    "enName": "Zardin the Vain",
+    "jpName": "自分大好きシャーディ",
+    "chsName": "自恋的夏迪",
+    "chtName": "自戀的夏迪",
+    "characters": [
+      "Euden",
+      "Zardin",
+      "Maribelle"
+    ]
+  },
+  "101": {
+    "enName": "Norwin the Author",
+    "jpName": "絵本作家ノーストン",
+    "chsName": "绘本作家诺斯通",
+    "chtName": "繪本作家諾斯敦",
+    "characters": [
+      "Norwin",
+      "Ranzal"
+    ]
+  },
+  "102": {
+    "enName": "Yachiyo's Accessories",
+    "jpName": "ヤチヨの髪飾り",
+    "chsName": "八千代的头饰",
+    "chtName": "八千代的髮飾",
+    "characters": [
+      "Yachiyo",
+      "Elisanne",
+      "Notte",
+      "Euden"
+    ]
+  },
+  "103": {
+    "enName": "Training Time!",
+    "jpName": "鍛えるぞ！",
+    "chsName": "锻炼肌肉！",
+    "chtName": "來鍛鍊身體吧！",
+    "characters": [
+      "Celliera",
+      "Cibella",
+      "Euden",
+      "Luca"
+    ]
+  },
+  "104": {
+    "enName": "Emile's Grape Juice",
+    "jpName": "エミュールとぶどうジュース",
+    "chsName": "艾缪尔与葡萄汁",
+    "chtName": "埃米爾與葡萄汁",
+    "characters": [
+      "Emile",
+      "Harle",
+      "Leif"
+    ]
+  },
+  "105": {
+    "enName": "Juggernaut's Bottomless Stomach",
+    "jpName": "食いしん坊ジャガーノート",
+    "chsName": "贪吃鬼札格纳特",
+    "chtName": "貪吃鬼迦喀諾特",
+    "characters": [
+      "Elisanne",
+      "Juggernaut",
+      "Zace"
+    ]
+  },
+  "106": {
+    "enName": "Mym the Warrior",
+    "jpName": "ムム、戦う",
+    "chsName": "战斗吧，穆穆",
+    "chtName": "戰鬥吧慕慕",
+    "characters": [
+      "Mym",
+      "Euden",
+      "Elisanne",
+      "Luca"
+    ]
+  },
+  "107": {
+    "enName": "Knight Necessities",
+    "jpName": "騎士の必需品",
+    "chsName": "骑士的必需品",
+    "chtName": "騎士之必需品",
+    "characters": [
+      "Hope",
+      "Alain",
+      "Zardin",
+      "Elisanne",
+      "Euden"
+    ]
+  },
+  "108": {
+    "enName": "Maribelle's First Day",
+    "jpName": "メリィベル学校に行く",
+    "chsName": "梅莉贝尔上学去",
+    "chtName": "梅莉貝爾上學去",
+    "characters": [
+      "Elisanne",
+      "Maribelle",
+      "Rabbit",
+      "Squirrel"
+    ]
+  },
+  "109": {
+    "enName": "Life as a Nurse",
+    "jpName": "看護師なら",
+    "chsName": "身为护理师",
+    "chtName": "身為護理師",
+    "characters": [
+      "Aeleen",
+      "Zardin",
+      "Luca",
+      "Ranzal",
+      "Maribelle"
+    ]
+  },
+  "110": {
+    "enName": "Serena the Easily Fooled",
+    "jpName": "セレナ、だまされる",
+    "chsName": "塞蕾娜，被骗啦",
+    "chtName": "席琳娜被騙了",
+    "characters": [
+      "Notte",
+      "Aurien",
+      "Serena"
+    ]
+  },
+  "111": {
+    "enName": "Xuan Zang the Teacher",
+    "jpName": "師匠、サンゾウ",
+    "chsName": "三藏师父",
+    "chtName": "師父三藏",
+    "characters": [
+      "Xuan Zang",
+      "Wu Kong",
+      "Notte"
+    ]
+  },
+  "112": {
+    "enName": "The Legendary Knife",
+    "jpName": "伝説のナイフを求めて",
+    "chsName": "寻找传说中的匕首",
+    "chtName": "尋找傳說之刃",
+    "characters": [
+      "Vida",
+      "Fritz",
+      "Bandit"
+    ]
+  },
+  "113": {
+    "enName": "In Search of a Knife",
+    "jpName": "ナイフを求めて",
+    "chsName": "找匕首",
+    "chtName": "尋找短刀",
+    "characters": [
+      "Renelle",
+      "Orsem"
+    ]
+  },
+  "114": {
+    "enName": "Puddle-Loving Vodyanoy",
+    "jpName": "水たまり大好きヴォジャノーイ",
+    "chsName": "喜欢水洼的沃加诺伊",
+    "chtName": "喜歡水窪的沃加諾伊",
+    "characters": [
+      "Euden",
+      "Vodyanoy"
+    ]
+  },
+  "115": {
+    "enName": "Elisanne the Bride",
+    "jpName": "花嫁、エルフィリス",
+    "chsName": "新娘·埃尔菲莉丝",
+    "chtName": "新娘耶魯菲莉絲",
+    "characters": [
+      "Elisanne",
+      "Cleo",
+      "Euden",
+      "Vanessa",
+      "Julietta"
+    ]
+  },
+  "116": {
+    "enName": "The Newlywed Ninja",
+    "jpName": "花嫁忍術はじめました",
+    "chsName": "新娘忍术，启动",
+    "chtName": "花嫁忍術開始囉",
+    "characters": [
+      "Luca",
+      "Aoi",
+      "Ranzal"
+    ]
+  },
+  "117": {
+    "enName": "Bridal Basics",
+    "jpName": "花嫁のいろは",
+    "chsName": "新娘入门",
+    "chtName": "新娘入門",
+    "characters": [
+      "Xania",
+      "Elisanne",
+      "Ranzal"
+    ]
+  },
+  "118": {
+    "enName": "Purity and the Merchant",
+    "jpName": "純粋と商人",
+    "chsName": "单纯与商人",
+    "chtName": "純真與商人",
+    "characters": [
+      "Rex",
+      "Francesca",
+      "Euden",
+      "Nina"
+    ]
+  },
+  "119": {
+    "enName": "A Sleepless Night",
+    "jpName": "眠れない夜",
+    "chsName": "不眠之夜",
+    "chtName": "失眠之夜",
+    "characters": [
+      "Lowen",
+      "Louise",
+      "Berserker"
+    ]
+  },
+  "120": {
+    "enName": "Yaten the Festival Planner",
+    "jpName": "祭職人ヤテン",
+    "chsName": "祭典工匠夜天",
+    "chtName": "祭典職人夜天",
+    "characters": [
+      "Yaten",
+      "Euden",
+      "Natalie"
+    ]
+  },
+  "121": {
+    "enName": "A Festival of Embarrassment",
+    "jpName": "城興し！",
+    "chsName": "振兴圣城！",
+    "chtName": "城堡振興！",
+    "characters": [
+      "Euden",
+      "Natalie",
+      "Yaten",
+      "Elisanne",
+      "Ranzal",
+      "Luca",
+      "Cleo",
+      "Notte"
+    ]
+  },
+  "122": {
+    "enName": "Fish On!",
+    "jpName": "釣り対決",
+    "chsName": "钓鱼对决",
+    "chtName": "釣魚對決",
+    "characters": [
+      "Musashi",
+      "Thaniel",
+      "Erik"
+    ]
+  },
+  "123": {
+    "enName": "The Fashionista",
+    "jpName": "ひらひらのふわふわ",
+    "chsName": "轻飘飘软绵绵",
+    "chtName": "輕柔飄逸",
+    "characters": [
+      "Felicia",
+      "Johanna"
+    ]
+  },
+  "124": {
+    "enName": "The Courage to Try",
+    "jpName": "挑戦する勇気",
+    "chsName": "挑战的勇气",
+    "chtName": "挑戰的勇氣",
+    "characters": [
+      "Pietro",
+      "Marty",
+      "Felicia",
+      "Johanna"
+    ]
+  },
+  "125": {
+    "enName": "Ramona's Many Talents",
+    "jpName": "鍛冶屋の次女ロジィナ",
+    "chsName": "铁匠铺次女罗吉娜",
+    "chtName": "鍛冶屋次女羅吉娜",
+    "characters": [
+      "Ramona",
+      "Cleo"
+    ]
+  },
+  "126": {
+    "enName": "Rena's Sibling Love",
+    "jpName": "鍛冶屋の長女レジィナ",
+    "chsName": "铁匠铺长女雷吉娜",
+    "chtName": "鍛冶屋長女雷吉娜",
+    "characters": [
+      "Rena",
+      "Ranzal",
+      "Ramona",
+      "Renee"
+    ]
+  },
+  "127": {
+    "enName": "Renee the Crybaby",
+    "jpName": "鍛冶屋の三女ルジィナ",
+    "chsName": "铁匠铺幺女卢吉娜",
+    "chtName": "鍛冶屋三女露吉娜",
+    "characters": [
+      "Renee",
+      "Ranzal",
+      "Rena",
+      "Ramona"
+    ]
+  },
+  "128": {
+    "enName": "Chelle's Letter",
+    "jpName": "シェスの手紙",
+    "chsName": "谢斯的信",
+    "chtName": "謝斯的信",
+    "characters": [
+      "Chelle",
+      "Euden"
+    ]
+  },
+  "129": {
+    "enName": "Mym's Scheme",
+    "jpName": "ムム、部屋に行く",
+    "chsName": "穆穆潜入房间",
+    "chtName": "潛入房間的慕慕",
+    "characters": [
+      "Mym",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "130": {
+    "enName": "Cleo's New Skills",
+    "jpName": "クラウの新しい技",
+    "chsName": "库菈乌的新招式",
+    "chtName": "克菈兒的新招式",
+    "characters": [
+      "Cleo",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "131": {
+    "enName": "Stewing in the Sun",
+    "jpName": "暑い日はカレー",
+    "chsName": "天热就要吃咖喱",
+    "chtName": "大熱天就要吃咖哩",
+    "characters": [
+      "Leonidas",
+      "Phares"
+    ]
+  },
+  "132": {
+    "enName": "Sunny Daze",
+    "jpName": "ジュリエッタの日焼け対策",
+    "chsName": "朱丽叶的防晒对策",
+    "chtName": "朱莉葉塔的防曬對策",
+    "characters": [
+      "Elisanne",
+      "Julietta",
+      "Estelle"
+    ]
+  },
+  "133": {
+    "enName": "Celliera the Melon Splitter",
+    "jpName": "セリエラとスイカ割り",
+    "chsName": "赛丽艾拉劈西瓜",
+    "chtName": "和榭葉拉打西瓜",
+    "characters": [
+      "Luca",
+      "Celliera"
+    ]
+  },
+  "134": {
+    "enName": "Ranzal's Suspicious Skewers",
+    "jpName": "ランザーヴの串焼き",
+    "chsName": "兰扎卜的烤串",
+    "chtName": "蘭薩弗的串燒",
+    "characters": [
+      "Cleo",
+      "Ranzal",
+      "Barbary",
+      "Nina"
+    ]
+  },
+  "135": {
+    "enName": "Estelle's Moral Minority",
+    "jpName": "風紀を守る！エステル",
+    "chsName": "艾丝蒂尔维护风纪！",
+    "chtName": "維護風紀！愛思蒂兒",
+    "characters": [
+      "Ranzal",
+      "Euden",
+      "Estelle"
+    ]
+  },
+  "136": {
+    "enName": "Karina Goes Scouting",
+    "jpName": "カーリナ、偵察する",
+    "chsName": "暗中侦查的卡丽娜",
+    "chtName": "卡麗娜的偵察行動",
+    "characters": [
+      "Karina",
+      "Siren"
+    ]
+  },
+  "137": {
+    "enName": "Cleo's Clams",
+    "jpName": "クラウと潮干狩り",
+    "chsName": "库菈乌赶海",
+    "chtName": "和克菈兒挖蛤蜊",
+    "characters": [
+      "Celliera",
+      "Cleo",
+      "Euden",
+      "Elisanne"
+    ]
+  },
+  "138": {
+    "enName": "Verica's Endless Struggle",
+    "jpName": "大人気！ウェルシェラお姉さん",
+    "chsName": "维尔莎拉姐姐人气爆棚！",
+    "chtName": "超受歡迎的薇兒謝拉姐姐",
+    "characters": [
+      "Verica",
+      "Elisanne"
+    ]
+  },
+  "139": {
+    "enName": "Luca's Shell Game",
+    "jpName": "リュカと巻貝",
+    "chsName": "卢卡与海螺",
+    "chtName": "琉卡與海螺",
+    "characters": [
+      "Euden",
+      "Luca"
+    ]
+  },
+  "140": {
+    "enName": "Night Terrors",
+    "jpName": "子供たちの夜",
+    "chsName": "孩子们的夜晚",
+    "chtName": "孩子們的夜晚",
+    "characters": [
+      "Pia",
+      "Amane",
+      "Berserker",
+      "Lily"
+    ]
+  },
+  "141": {
+    "enName": "Berserker's Lament",
+    "jpName": "ベルザークの悩み",
+    "chsName": "贝尔扎克的烦恼",
+    "chtName": "貝爾薩克的煩惱",
+    "characters": [
+      "Ranzal",
+      "Berserker",
+      "Amane",
+      "Pia",
+      "Lowen",
+      "Lucretia"
+    ]
+  },
+  "142": {
+    "enName": "Mym's Brilliant Plan",
+    "jpName": "ムム、大作戦",
+    "chsName": "穆穆的大作战",
+    "chtName": "慕慕的大作戰",
+    "characters": [
+      "Euden",
+      "Mym",
+      "Mini Hildy",
+      "Cinder Drake",
+      "Snow Drake",
+      "Gust Drake",
+      "Moon Drake",
+      "Gloom Drake"
+    ]
+  },
+  "143": {
+    "enName": "Erik's Carving Niche",
+    "jpName": "エリックの木彫り人形",
+    "chsName": "埃里克的木雕人偶",
+    "chtName": "艾力克的木雕人偶",
+    "characters": [
+      "Euden",
+      "Erik",
+      "Irfan",
+      "Elisanne",
+      "Cleo"
+    ]
+  },
+  "144": {
+    "enName": "Mikoto's Happiness",
+    "jpName": "ミコトの幸せ",
+    "chsName": "米科特的幸福",
+    "chtName": "尊的幸福",
+    "characters": [
+      "Elisanne",
+      "Euden",
+      "Mikoto",
+      "Nicolas",
+      "Sophie"
+    ]
+  },
+  "145": {
+    "enName": "To Victor, the Spoils",
+    "jpName": "幻狼傭兵団ヴィクター",
+    "chsName": "幻狼佣兵团的维克托",
+    "chtName": "幻狼傭兵團維克多",
+    "characters": [
+      "Victor",
+      "Euden",
+      "Noelle"
+    ]
+  },
+  "146": {
+    "enName": "Noelle the Messenger",
+    "jpName": "伝令兵ノエル",
+    "chsName": "传令兵诺艾尔",
+    "chtName": "傳令兵諾艾兒",
+    "characters": [
+      "Notte",
+      "Noelle",
+      "Victor"
+    ]
+  },
+  "147": {
+    "enName": "Fated Lovers",
+    "jpName": "運命の人たち",
+    "chsName": "命中注定之人",
+    "chtName": "命中註定的人們",
+    "characters": [
+      "Philia",
+      "Euden",
+      "Rodrigo",
+      "Jakob"
+    ]
+  },
+  "148": {
+    "enName": "The Spice of Life",
+    "jpName": "ヒリつくスリル",
+    "chsName": "胆战心惊的刺激感",
+    "chtName": "膽顫心驚的刺激",
+    "characters": [
+      "Joe",
+      "Notte",
+      "Vice"
+    ]
+  },
+  "149": {
+    "enName": "A Rewarding Experience",
+    "jpName": "とくべつな報酬",
+    "chsName": "特别的报酬",
+    "chtName": "特別的報酬",
+    "characters": [
+      "Irfan",
+      "Elisanne",
+      "Pia",
+      "Lowen"
+    ]
+  },
+  "150": {
+    "enName": "Lea's Perfect Strategy",
+    "jpName": "元アルベリア王国騎士リア",
+    "chsName": "原阿尔贝里亚王国骑士丽雅",
+    "chtName": "前阿爾貝利亞王國騎士里亞",
+    "characters": [
+      "Lea",
+      "Orion",
+      "Ranzal"
+    ]
+  },
+  "151": {
+    "enName": "Emma's Motivation",
+    "jpName": "応援団員エマ",
+    "chsName": "应援团员艾玛",
+    "chtName": "應援團團員艾瑪",
+    "characters": [
+      "Emma",
+      "Cleo",
+      "Thaniel"
+    ]
+  },
+  "152": {
+    "enName": "I Summon Thee: Part One",
+    "jpName": "竜化のじゅもん！",
+    "chsName": "龙化的咒语！",
+    "chtName": "龍化的咒語！",
+    "characters": [
+      "Euden",
+      "Luca",
+      "Ranzal",
+      "Midgardsormr",
+      "Linus",
+      "Hope",
+      "Mym"
+    ]
+  },
+  "153": {
+    "enName": "I Summon Thee: Part Two",
+    "jpName": "竜化のじゅもん！2",
+    "chsName": "龙化的咒语！2",
+    "chtName": "龍化的咒語！2",
+    "characters": [
+      "Euden",
+      "Linus",
+      "Jeanne d'Arc",
+      "Brunhilda",
+      "Curran",
+      "Heinwald",
+      "Nyarlathotep",
+      "Cleo"
+    ]
+  },
+  "154": {
+    "enName": "Temptation's Call",
+    "jpName": "魅惑の…",
+    "chsName": "充满诱惑的……",
+    "chtName": "充滿誘惑的…",
+    "characters": [
+      "Euden",
+      "Malora",
+      "Edward"
+    ]
+  },
+  "155": {
+    "enName": "Happy First Anniversary!",
+    "jpName": "1周年ありがとうございます！",
+    "chsName": "欢庆1周年！",
+    "chtName": "歡慶一週年！",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Midgardsormr",
+      "Cleo",
+      "Elisanne",
+      "Ranzal",
+      "Luca"
+    ]
+  },
+  "156": {
+    "enName": "Euden's New Look",
+    "jpName": "ユーディルの新たな装い",
+    "chsName": "尤蒂尔的新装",
+    "chtName": "尤帝爾的新裝",
+    "characters": [
+      "Euden",
+      "Notte",
+      "Cleo",
+      "Elisanne",
+      "Ranzal",
+      "Fleur",
+      "Luca",
+      "Midgardsormr",
+      "Mym",
+      "Moon Drake"
+    ]
+  },
+  "157": {
+    "enName": "Taro's Armor",
+    "jpName": "タロウの鎧",
+    "chsName": "太郎的盔甲",
+    "chtName": "太郎的鎧甲",
+    "characters": [
+      "Taro",
+      "Malka"
+    ]
+  },
+  "158": {
+    "enName": "Delphi the Protector",
+    "jpName": "奉護者デルフィ",
+    "chsName": "奉护者德尔菲",
+    "chtName": "奉護者德菲",
+    "characters": [
+      "Delphi",
+      "Euden",
+      "Ranzal",
+      "Luca",
+      "Cleo"
+    ]
+  },
+  "159": {
+    "enName": "Former Royal Magician Cassandra",
+    "jpName": "元宮廷魔術師カサンドラ",
+    "chsName": "原宫廷魔法师卡珊德拉",
+    "chtName": "前宮廷魔法師卡珊德拉",
+    "characters": [
+      "Cassandra",
+      "Elisanne",
+      "Euden"
+    ]
+  },
+  "160": {
+    "enName": "Audric's Bedtime Story",
+    "jpName": "アスラムの読み聞かせ",
+    "chsName": "亚斯拉姆讲故事",
+    "chtName": "安斯拉姆的床邊故事",
+    "characters": [
+      "Audric",
+      "Notte",
+      "Euden"
+    ]
+  },
+  "161": {
+    "enName": "Vice Captain Patia",
+    "jpName": "白燕騎士団副長パティア",
+    "chsName": "白燕骑士团副团长帕蒂亚",
+    "chtName": "白燕騎士團副團長帕媞亞",
+    "characters": [
+      "Euden",
+      "Patia",
+      "Leif"
+    ]
+  },
+  "162": {
+    "enName": "Call to Order",
+    "jpName": "第一回ドラゴン会議",
+    "chsName": "第一届龙会议",
+    "chtName": "第一回龍族會議",
+    "characters": [
+      "Moon Drake",
+      "Pele",
+      "Jeanne d'Arc"
+    ]
+  },
+  "163": {
+    "enName": "Halloween for Two",
+    "jpName": "ふたりのハロウィン",
+    "chsName": "两个人的万圣节",
+    "chtName": "兩個人的萬聖節",
+    "characters": [
+      "Mym",
+      "Euden"
+    ]
+  },
+  "164": {
+    "enName": "Lowlife Lowen",
+    "jpName": "わるいこルーエン",
+    "chsName": "坏孩子卢恩",
+    "chtName": "壞孩子路恩",
+    "characters": [
+      "Lowen",
+      "Elias"
+    ]
+  },
+  "165": {
+    "enName": "A Hidden Halloween",
+    "jpName": "オデッタのハロウィン",
+    "chsName": "欧蒂塔的万圣节",
+    "chtName": "歐蒂妲的萬聖節",
+    "characters": [
+      "Notte",
+      "Odetta"
+    ]
+  },
+  "166": {
+    "enName": "A Tricky Trick",
+    "jpName": "もふもふハロウィン",
+    "chsName": "毛茸茸的万圣节",
+    "chtName": "毛茸茸萬聖節",
+    "characters": [
+      "Euden",
+      "Maritimus"
+    ]
+  },
+  "167": {
+    "enName": "Lathna's Game",
+    "jpName": "ラトニーのお気に入り",
+    "chsName": "拉托妮的心头好",
+    "chtName": "菈特妮喜歡的東西",
+    "characters": [
+      "Lathna",
+      "Euden",
+      "Curran"
+    ]
+  },
+  "168": {
+    "enName": "Akasha's Mysterious Skills",
+    "jpName": "アカーシャの妙技",
+    "chsName": "阿加莎的神技",
+    "chtName": "阿迦奢的絕技",
+    "characters": [
+      "Akasha",
+      "Luca",
+      "Notte",
+      "Curran",
+      "Euden",
+      "Cleo",
+      "Heinwald"
+    ]
+  },
+  "169": {
+    "enName": "A Poor Effort",
+    "jpName": "できないものはできない",
+    "chsName": "命里无时莫强求",
+    "chtName": "做不到就是做不到",
+    "characters": [
+      "Euden",
+      "Waike",
+      "Xander"
+    ]
+  },
+  "170": {
+    "enName": "A Valiant Effort",
+    "jpName": "できるけどできない",
+    "chsName": "能做到但忍不了",
+    "chtName": "做得到但是做不了",
+    "characters": [
+      "Waike",
+      "Linus",
+      "Xander"
+    ]
+  },
+  "171": {
+    "enName": "Luca's Biggest Fan",
+    "jpName": "リュカ大好きチェルシー",
+    "chsName": "最喜欢卢卡的切尔茜",
+    "chtName": "最喜歡琉卡的雀兒喜",
+    "characters": [
+      "Chelsea",
+      "Luca"
+    ]
+  },
+  "172": {
+    "enName": "Size Matters",
+    "jpName": "デッカイ男",
+    "chsName": "大男人",
+    "chtName": "大男人",
+    "characters": [
+      "Yuya",
+      "Euden"
+    ]
+  },
+  "173": {
+    "enName": "The Beholder's Eye",
+    "jpName": "アート！",
+    "chsName": "艺术！",
+    "chtName": "藝術！",
+    "characters": [
+      "Cleo",
+      "Fleur"
+    ]
+  },
+  "174": {
+    "enName": "Bread Delivery",
+    "jpName": "1日1つまでしか運べません",
+    "chsName": "每天只能送一餐",
+    "chtName": "一天只能搬一次",
+    "characters": [
+      "Cleo",
+      "Ezelith",
+      "Homura",
+      "Cinder Drake"
+    ]
+  },
+  "175": {
+    "enName": "Let's Play a Game!",
+    "jpName": "すごろくで遊ぼう",
+    "chsName": "来玩双陆吧",
+    "chtName": "來玩雙六吧",
+    "characters": [
+      "Euden",
+      "Aurien",
+      "Norwin"
+    ]
+  },
+  "176": {
+    "enName": "Grown-Up Curfew",
+    "jpName": "オトナ（ ）の夜更かし",
+    "chsName": "大人（？）的熬夜",
+    "chtName": "大人（？）的熬夜",
+    "characters": [
+      "Amane",
+      "Ranzal",
+      "Elias",
+      "Lily",
+      "Hope",
+      "Maribelle",
+      "Louise",
+      "Lowen"
+    ]
+  },
+  "177": {
+    "enName": "Elisanne the Grand Paladyn",
+    "jpName": "聖天騎士エルフィリス",
+    "chsName": "圣天骑士埃尔菲莉丝",
+    "chtName": "聖天騎士耶魯菲莉絲",
+    "characters": [
+      "Luca",
+      "Elisanne"
+    ]
+  },
+  "178": {
+    "enName": "Jiang Ziya's Treasures",
+    "jpName": "タイコウボウの仙宝",
+    "chsName": "太公望的仙宝",
+    "chtName": "太公望的仙寶",
+    "characters": [
+      "Jiang Ziya",
+      "Hildegarde",
+      "Ranzal"
+    ]
+  },
+  "179": {
+    "enName": "Durant, the Mad Dog of Valkaheim",
+    "jpName": "バルカヘイムの狂犬デュラルド",
+    "chsName": "巴尔加海姆的狂犬杜拉尔德",
+    "chtName": "巴爾加海姆的狂犬德拉魯德",
+    "characters": [
+      "Durant",
+      "Euden"
+    ]
+  },
+  "180": {
+    "enName": "The Pigeonsitter",
+    "jpName": "ハト、預かります",
+    "chsName": "照看鸽子",
+    "chtName": "暫時照顧鴿子",
+    "characters": [
+      "Rawn",
+      "Jurota"
+    ]
+  },
+  "181": {
+    "enName": "Aoi's Pigeons",
+    "jpName": "アオイのハト",
+    "chsName": "葵的鸽子",
+    "chtName": "葵的鴿子",
+    "characters": [
+      "Jurota",
+      "Rawn",
+      "Aoi",
+      "Zardin"
+    ]
+  },
+  "182": {
+    "enName": "Malora's Outfits",
+    "jpName": "マローラの衣装",
+    "chsName": "马萝拉的新衣",
+    "chtName": "瑪洛菈的服裝",
+    "characters": [
+      "Malora",
+      "Vanessa",
+      "Althemia",
+      "Annelie"
+    ]
+  },
+  "183": {
+    "enName": "Two Little Starfalls",
+    "jpName": "サンメテオールはペロとチロ",
+    "chsName": "圣星使者佩罗与奇罗",
+    "chtName": "聖夜使者‧佩羅與奇羅",
+    "characters": [
+      "Luca",
+      "Xainfried",
+      "Rex",
+      "Fydon & Felyx"
+    ]
+  },
+  "184": {
+    "enName": "A Crude Food Dude",
+    "jpName": "ラッキー占い",
+    "chsName": "幸运占卜",
+    "chtName": "幸運占卜",
+    "characters": [
+      "Verica",
+      "Yaten",
+      "Euden",
+      "Cleo"
+    ]
+  },
+  "185": {
+    "enName": "Off the Mark",
+    "jpName": "大体合ってない",
+    "chsName": "基本对不上",
+    "chtName": "幾乎不對",
+    "characters": [
+      "Waike",
+      "Ranzal",
+      "Euden",
+      "Linus",
+      "Xander"
+    ]
+  },
+  "186": {
+    "enName": "For Fear of an Ear",
+    "jpName": "便利な耳飾り",
+    "chsName": "便利的耳饰",
+    "chtName": "便利的耳飾",
+    "characters": [
+      "Cleo",
+      "Annelie",
+      "Luca"
+    ]
+  },
+  "187": {
+    "enName": "Gourmet Gifts",
+    "jpName": "贈り物の使い方",
+    "chsName": "礼物的用途",
+    "chtName": "禮物的用途",
+    "characters": [
+      "Euden",
+      "Moon Drake",
+      "Mercury",
+      "Marishiten",
+      "Juggernaut"
+    ]
+  },
+  "188": {
+    "enName": "Equal Portions",
+    "jpName": "ハッピーケーキ",
+    "chsName": "幸福蛋糕",
+    "chtName": "幸福蛋糕",
+    "characters": [
+      "Luca",
+      "Xainfried",
+      "Malora",
+      "Chelsea",
+      "Xiao Lei",
+      "Elisanne"
+    ]
+  },
+  "189": {
+    "enName": "Combat Android Laxi",
+    "jpName": "戦闘兵器ラキシ",
+    "chsName": "战斗兵器莱姬希",
+    "chtName": "戰鬥兵器拉契希",
+    "characters": [
+      "Laxi",
+      "Euden",
+      "Luca"
+    ]
+  },
+  "190": {
+    "enName": "Mitsuhide of the Wyrmclans",
+    "jpName": "十二竜氏ミツヒデ",
+    "chsName": "十二龙氏光秀",
+    "chtName": "十二龍氏光秀",
+    "characters": [
+      "Bonnie",
+      "Mitsuhide",
+      "Chitose",
+      "Euden",
+      "Yaten"
+    ]
+  },
+  "191": {
+    "enName": "Happy New Year!",
+    "jpName": "あけましておめでとう!!",
+    "chsName": "新年好！",
+    "chtName": "新年快樂!!",
+    "characters": [
+      "Elisanne",
+      "Euden",
+      "Cleo",
+      "Ranzal",
+      "Luca",
+      "Notte"
+    ]
+  },
+  "192": {
+    "enName": "Nobunaga the Nonconformist",
+    "jpName": "十二竜氏ノブナガ",
+    "chsName": "十二龙氏信长",
+    "chtName": "十二龍氏‧信長",
+    "characters": [
+      "Nobunaga",
+      "Hanabusa",
+      "Ranzal"
+    ]
+  },
+  "193": {
+    "enName": "Chitose's Charm Classes",
+    "jpName": "チトセの女子力",
+    "chsName": "千岁的女子力",
+    "chtName": "千歲的女子力",
+    "characters": [
+      "Chitose",
+      "Luca",
+      "Ranzal",
+      "Elisanne",
+      "Euden"
+    ]
+  },
+  "194": {
+    "enName": "Hanabusa's Dancing",
+    "jpName": "ハナブサ、舞う",
+    "chsName": "花房，起舞",
+    "chtName": "花房漫舞",
+    "characters": [
+      "Hanabusa",
+      "Euden",
+      "Mitsuhide",
+      "Elisanne",
+      "Chitose"
+    ]
+  },
+  "195": {
+    "enName": "Cultural Exchange",
+    "jpName": "ヒューマンの文化・うどん編",
+    "chsName": "人类文化·乌冬篇",
+    "chtName": "人類的文化‧烏龍麵篇",
+    "characters": [
+      "Sazanka",
+      "Eleonora",
+      "Ieyasu"
+    ]
+  },
+  "196": {
+    "enName": "General Kirsty",
+    "jpName": "将軍キルスティ",
+    "chsName": "将军科丝蒂",
+    "chtName": "將軍基魯斯緹",
+    "characters": [
+      "Kirsty",
+      "Euden",
+      "Joachim",
+      "Victor"
+    ]
+  },
+  "197": {
+    "enName": "Joachim the Butler",
+    "jpName": "キル姉さんの部下・ヨアキム",
+    "chsName": "科姐的部下·约亚希姆",
+    "chtName": "基魯姐的部下‧約爾希姆",
+    "characters": [
+      "Kirsty",
+      "Joachim",
+      "Cleo"
+    ]
+  },
+  "198": {
+    "enName": "Unconventional Therapy",
+    "jpName": "疲れています",
+    "chsName": "埃尔菲莉丝很累",
+    "chtName": "身心俱疲",
+    "characters": [
+      "Melsa",
+      "Elisanne",
+      "Luca",
+      "Renelle"
+    ]
+  },
+  "199": {
+    "enName": "Jupiter's Transformation",
+    "jpName": "ユピテル☆大変身",
+    "chsName": "朱庇特☆大变身",
+    "chtName": "朱庇特☆大變身",
+    "characters": [
+      "Jupiter",
+      "Ranzal"
+    ]
+  },
+  "200": {
+    "enName": "Blademaster Luca",
+    "jpName": "刀使いリュカ",
+    "chsName": "精通刀法的卢卡",
+    "chtName": "刀使琉卡",
+    "characters": [
+      "Elisanne",
+      "Luca",
+      "Laxi"
+    ]
+  },
+  "201": {
+    "enName": "Electrifying Massages",
+    "jpName": "ビリビリマッサージ",
+    "chsName": "雷电按摩",
+    "chtName": "雷擊按摩",
+    "characters": [
+      "Albert",
+      "Raemond"
+    ]
+  },
+  "202": {
+    "enName": "Vanessa and the Cats",
+    "jpName": "ヴァネッサと猫の戯れ",
+    "chsName": "凡妮莎与猫的嬉戏",
+    "chtName": "凡妮莎與貓咪的嬉戲",
+    "characters": [
+      "Vanessa",
+      "Berserker"
+    ]
+  },
+  "203": {
+    "enName": "Berserker Helps Out",
+    "jpName": "ベルザーク、手伝う",
+    "chsName": "贝尔扎克来帮忙",
+    "chtName": "貝爾薩克來幫忙",
+    "characters": [
+      "Sarisse",
+      "Berserker",
+      "Ranzal"
+    ]
+  },
+  "204": {
+    "enName": "We Are Team Justice!",
+    "jpName": "チームジャスティスなんじゃー!",
+    "chsName": "正义之队！",
+    "chtName": "我們是正義小隊！",
+    "characters": [
+      "Linus",
+      "Karl",
+      "Thaniel",
+      "Maribelle",
+      "Berserker"
+    ]
+  },
+  "205": {
+    "enName": "Sarisse's Strawberries",
+    "jpName": "シーリスと狩りの時間",
+    "chsName": "希里丝与狩猎",
+    "chtName": "西莉絲與採獵",
+    "characters": [
+      "Cleo",
+      "Sarisse",
+      "Luca",
+      "Sylas",
+      "Xania",
+      "Aeleen"
+    ]
+  },
+  "206": {
+    "enName": "The Pyroblossom Plot",
+    "jpName": "仙花焔と実験",
+    "chsName": "仙花焰与实验",
+    "chtName": "仙花焰與實驗",
+    "characters": [
+      "Su Fang",
+      "Cleo",
+      "Sinoa",
+      "Kleimann"
+    ]
+  },
+  "207": {
+    "enName": "For Science!",
+    "jpName": "実験バカたち",
+    "chsName": "实验狂人",
+    "chtName": "實驗痴們",
+    "characters": [
+      "Kleimann",
+      "Sinoa",
+      "Cleo",
+      "Rex"
+    ]
+  },
+  "208": {
+    "enName": "Thank-You Gifts",
+    "jpName": "日ごろの感謝をこめて",
+    "chsName": "怀着平日的感谢",
+    "chtName": "日常的感謝之意",
+    "characters": [
+      "Cibella",
+      "Philia",
+      "Celliera"
+    ]
+  },
+  "209": {
+    "enName": "Origami Lessons",
+    "jpName": "アディスとバラ",
+    "chsName": "阿迪斯与玫瑰",
+    "chtName": "阿迪斯與薔薇",
+    "characters": [
+      "Notte",
+      "Addis",
+      "Eleonora",
+      "Laranoa",
+      "Lowen",
+      "Elias",
+      "Sazanka"
+    ]
+  },
+  "210": {
+    "enName": "Cupcakes of Gratitude",
+    "jpName": "感謝のカップケーキ",
+    "chsName": "表达谢意的纸杯蛋糕",
+    "chtName": "傳達感謝之意的杯子蛋糕",
+    "characters": [
+      "Melody",
+      "Cleo",
+      "Vida"
+    ]
+  },
+  "211": {
+    "enName": "Gloom Drake's Dream",
+    "jpName": "ダークドラコ、憧れる",
+    "chsName": "暗龙的憧憬",
+    "chtName": "暗龍的憧憬",
+    "characters": [
+      "Silke",
+      "Hikage",
+      "Gloom Drake",
+      "Euden"
+    ]
+  },
+  "212": {
+    "enName": "Animal Collective",
+    "jpName": "わんちゃん集会",
+    "chsName": "小狗聚会",
+    "chtName": "狗狗聚會",
+    "characters": [
+      "Laranoa",
+      "Rolf",
+      "Durant"
+    ]
+  },
+  "213": {
+    "enName": "Valerio the Genius Chef",
+    "jpName": "天才料理人ヴァレリオ",
+    "chsName": "天才厨师瓦莱里奥",
+    "chtName": "天才廚師瓦萊里奧",
+    "characters": [
+      "Valerio",
+      "Euden",
+      "Cleo",
+      "Vice",
+      "Joe"
+    ]
+  },
+  "214": {
+    "enName": "Pipple the Bather",
+    "jpName": "動くお野菜ピップル",
+    "chsName": "会动的蔬菜啵噜",
+    "chtName": "會動的蔬菜皮普",
+    "characters": [
+      "Pipple",
+      "Luca",
+      "Valerio"
+    ]
+  },
+  "215": {
+    "enName": "Mitsuba the Chef",
+    "jpName": "板前娘ミツバ",
+    "chsName": "小厨娘三叶",
+    "chtName": "板前師傅三葉",
+    "characters": [
+      "Mitsuba",
+      "Notte",
+      "Ranzal"
+    ]
+  },
+  "216": {
+    "enName": "Trickster Training",
+    "jpName": "騙されない訓練・再び",
+    "chsName": "防骗特训·再度上演",
+    "chtName": "防騙訓練‧第二彈",
+    "characters": [
+      "Vixel",
+      "Serena"
+    ]
+  },
+  "217": {
+    "enName": "Love Hurts",
+    "jpName": "恋は…",
+    "chsName": "恋爱就是……",
+    "chtName": "戀愛是…",
+    "characters": [
+      "Cleo",
+      "Ranzal",
+      "Rodrigo"
+    ]
+  },
+  "218": {
+    "enName": "Reconciliation",
+    "jpName": "あゆみより",
+    "chsName": "增进理解",
+    "chtName": "試著理解",
+    "characters": [
+      "Tobias",
+      "Elisanne",
+      "Julietta"
+    ]
+  },
+  "219": {
+    "enName": "Hope the Apprentice",
+    "jpName": "見習いホープ",
+    "chsName": "见习霍普",
+    "chtName": "實習生霍普",
+    "characters": [
+      "Hope",
+      "Elisanne",
+      "Tobias"
+    ]
+  },
+  "220": {
+    "enName": "Fafnir Roy's Greatest Treasure",
+    "jpName": "宝竜のとっておき",
+    "chsName": "宝龙的珍藏品",
+    "chtName": "寶龍的珍藏",
+    "characters": [
+      "Fafnir Roy III",
+      "Gold Fafnir",
+      "Euden"
+    ]
+  },
+  "221": {
+    "enName": "Love and Flowers",
+    "jpName": "花と片思い",
+    "chsName": "花与单相思",
+    "chtName": "花與單戀",
+    "characters": [
+      "Jakob",
+      "Cleo",
+      "Sylas"
+    ]
+  },
+  "222": {
+    "enName": "Withdrawal",
+    "jpName": "禁断症状",
+    "chsName": "戒断反应",
+    "chtName": "禁斷症狀",
+    "characters": [
+      "Cleo",
+      "Mikoto",
+      "Euden",
+      "Luca",
+      "Sylas",
+      "Maritimus"
+    ]
+  },
+  "223": {
+    "enName": "The Petting Zoo",
+    "jpName": "モフモフ被害者の会",
+    "chsName": "毛茸茸受害者集会",
+    "chtName": "毛茸茸被害者集會",
+    "characters": [
+      "Sylas",
+      "Luca",
+      "Melsa",
+      "Cleo",
+      "Elias",
+      "Mikoto",
+      "Elisanne"
+    ]
+  },
+  "224": {
+    "enName": "Stabby Stabby!",
+    "jpName": "華麗なるシャノン",
+    "chsName": "华丽的沙音",
+    "chtName": "華麗的夏儂",
+    "characters": [
+      "Elisanne",
+      "Ranzal",
+      "Alex",
+      "Cleo"
+    ]
+  },
+  "225": {
+    "enName": "Bellina the Mighty",
+    "jpName": "最強はベリーナ",
+    "chsName": "贝利娜最强",
+    "chtName": "最強的貝麗娜",
+    "characters": [
+      "Bellina",
+      "Luca",
+      "Midgardsormr"
+    ]
+  },
+  "226": {
+    "enName": "Aldred's Claws",
+    "jpName": "アデルペインの爪",
+    "chsName": "阿德尔潘的利爪",
+    "chtName": "阿戴爾潘因的利爪",
+    "characters": [
+      "Aldred",
+      "Notte"
+    ]
+  },
+  "227": {
+    "enName": "Saving Grace",
+    "jpName": "救いを求めるグレース",
+    "chsName": "寻求救赎的格蕾丝",
+    "chtName": "尋求救贖的葛雷絲",
+    "characters": [
+      "Grace",
+      "Aldred",
+      "Euden"
+    ]
+  },
+  "228": {
+    "enName": "Flower Power",
+    "jpName": "花盛り",
+    "chsName": "花海",
+    "chtName": "花滿開",
+    "characters": [
+      "Euden",
+      "Konohana Sakuya",
+      "Freyja",
+      "Homura"
+    ]
+  },
+  "229": {
+    "enName": "A Prince's Concern",
+    "jpName": "お悩みファルエス",
+    "chsName": "烦恼的法尔艾斯",
+    "chtName": "法魯艾斯的煩惱",
+    "characters": [
+      "Phares"
+    ]
+  },
+  "230": {
+    "enName": "No Debt Left Unpaid",
+    "jpName": "借りは忘れない",
+    "chsName": "有恩(仇)必报",
+    "chtName": "有借有還",
+    "characters": [
+      "Lazry",
+      "Ramona",
+      "Euden",
+      "Luca"
+    ]
+  },
+  "231": {
+    "enName": "Gauld's Gloom",
+    "jpName": "ゴルドの落ち着く場所",
+    "chsName": "戈尔德的小憩之所",
+    "chtName": "格爾多的安心場所",
+    "characters": [
+      "Gauld",
+      "Euden",
+      "Gloom Drake",
+      "Xander"
+    ]
+  },
+  "232": {
+    "enName": "The Observers",
+    "jpName": "マナの乱れを観測しよう",
+    "chsName": "观测魔力紊乱吧",
+    "chtName": "來觀測瑪納的混亂吧",
+    "characters": [
+      "Nicolas",
+      "Sophie",
+      "Sinoa"
+    ]
+  },
+  "233": {
+    "enName": "Hands Off!",
+    "jpName": "滑り込みセーフ",
+    "chsName": "勉强允许",
+    "chtName": "允許的底線",
+    "characters": [
+      "Fritz",
+      "Annelie",
+      "Euden",
+      "Notte"
+    ]
+  },
+  "234": {
+    "enName": "A Life-Changing Request",
+    "jpName": "そわそわシャノン",
+    "chsName": "心神不宁的沙音",
+    "chtName": "心神不定的夏儂",
+    "characters": [
+      "Elisanne",
+      "Alex",
+      "Cleo",
+      "Rena"
+    ]
+  },
+  "235": {
+    "enName": "A Rough Landing",
+    "jpName": "ホークとフローリデル",
+    "chsName": "霍克与弗洛里德尔",
+    "chtName": "霍克和弗羅里戴爾",
+    "characters": [
+      "Hawk",
+      "Louise",
+      "Duskhawk"
+    ]
+  },
+  "236": {
+    "enName": "Electrifying Massages: The Return",
+    "jpName": "ビリビリマッサージ再び",
+    "chsName": "雷电按摩重新开业",
+    "chtName": "雷擊按摩再度開張",
+    "characters": [
+      "Albert",
+      "Kleimann",
+      "Notte",
+      "Ranzal",
+      "Elisanne",
+      "Curran",
+      "Heinwald"
+    ]
+  },
+  "237": {
+    "enName": "Cute Weapons",
+    "jpName": "かわいい武器",
+    "chsName": "可爱的武器",
+    "chtName": "可愛的武器",
+    "characters": [
+      "Elisanne",
+      "Julietta",
+      "Ramona"
+    ]
+  },
+  "238": {
+    "enName": "A Mysterious Fruit",
+    "jpName": "ドラフルの使い方",
+    "chsName": "龙之果实的使用方法",
+    "chtName": "龍果的使用方法",
+    "characters": [
+      "Midgardsormr",
+      "Ranzal",
+      "Luca",
+      "Homura",
+      "Ifrit"
+    ]
+  },
+  "239": {
+    "enName": "A Romantic Rumination",
+    "jpName": "こいうらない",
+    "chsName": "恋爱占卜",
+    "chtName": "戀愛占卜",
+    "characters": [
+      "Verica",
+      "Elisanne",
+      "Cleo",
+      "Orion"
+    ]
+  },
+  "240": {
+    "enName": "Yurius's Miscalculation",
+    "jpName": "ユリウスの誤算",
+    "chsName": "尤里乌斯失算了",
+    "chtName": "尤里烏斯的失算",
+    "characters": [
+      "Yurius",
+      "Albert",
+      "Raemond",
+      "Ranzal",
+      "Euden",
+      "Notte"
+    ]
+  },
+  "241": {
+    "enName": "Forte's Food",
+    "jpName": "フォルテの腹ごしらえ",
+    "chsName": "法尔提果腹记",
+    "chtName": "法露特的賽前伙食",
+    "characters": [
+      "Forte",
+      "Ranzal",
+      "Naveed"
+    ]
+  },
+  "242": {
+    "enName": "An Eccentric Bunch",
+    "jpName": "精鋭集団…！？",
+    "chsName": "精锐团队！？",
+    "chtName": "菁英集團…!",
+    "characters": [
+      "Notte",
+      "Euden",
+      "Siren",
+      "Lucretia",
+      "Fritz",
+      "Liger",
+      "Annelie",
+      "Natalie",
+      "Yaten"
+    ]
+  },
+  "243": {
+    "enName": "A Dignified Ruler...",
+    "jpName": "聡明な王…！？",
+    "chsName": "贤王！？",
+    "chtName": "聰明的王…!",
+    "characters": [
+      "Natalie",
+      "Su Fang",
+      "Luther",
+      "Siren",
+      "Euden"
+    ]
+  },
+  "244": {
+    "enName": "Operation Fluffy Patrol",
+    "jpName": "見回り役の夜",
+    "chsName": "巡逻之夜",
+    "chtName": "巡邏之夜",
+    "characters": [
+      "Berserker",
+      "Hope",
+      "Cleo",
+      "Elias",
+      "Lowen"
+    ]
+  },
+  "245": {
+    "enName": "A Running Gag",
+    "jpName": "思ってたのと違う",
+    "chsName": "跟预想的不一样",
+    "chtName": "跟想像的不一樣",
+    "characters": [
+      "Euden",
+      "Ranzal",
+      "Orsem",
+      "Annelie",
+      "Fritz",
+      "Luther",
+      "Alain"
+    ]
+  },
+  "246": {
+    "enName": "High Midgardsormr",
+    "jpName": "真ミドガルズオルム！",
+    "chsName": "真耶梦加得！",
+    "chtName": "真‧耶夢加得！",
+    "characters": [
+      "High Midgardsormr",
+      "Mikoto",
+      "Euden",
+      "Ezelith",
+      "Vanessa",
+      "Sarisse",
+      "Ranzal",
+      "Elisanne",
+      "Luca"
+    ]
+  },
+  "247": {
+    "enName": "Leif, Captain of the White Sparrows",
+    "jpName": "白燕騎士団長リーフ",
+    "chsName": "白燕骑士团长利弗",
+    "chtName": "白燕騎士團團長李弗",
+    "characters": [
+      "Leif",
+      "Elisanne",
+      "Cleo",
+      "Euden",
+      "Patia",
+      "Luca"
+    ]
+  },
+  "248": {
+    "enName": "Xuan Zang's Handy Horns",
+    "jpName": "サンゾウと便利な…",
+    "chsName": "三藏与便利的……",
+    "chtName": "三藏與便利的…",
+    "characters": [
+      "Radiant Xuan Zang",
+      "Euden",
+      "Jiang Ziya"
+    ]
+  },
+  "249": {
+    "enName": "Zhu Bajie the Heartthrob",
+    "jpName": "イケメンハッカイ",
+    "chsName": "俊男八戒",
+    "chtName": "好男人八戒",
+    "characters": [
+      "Zhu Bajie",
+      "Ranzal",
+      "Linus"
+    ]
+  },
+  "250": {
+    "enName": "Crazed Engineer Sha Wujing",
+    "jpName": "マニアックゴジョウ",
+    "chsName": "狂热的悟净",
+    "chtName": "狂熱份子悟淨",
+    "characters": [
+      "Sha Wujing",
+      "Mym"
+    ]
+  },
+  "251": {
+    "enName": "The Training of Wu Kong",
+    "jpName": "ゴクウの修行",
+    "chsName": "悟空的修行",
+    "chtName": "悟空的修行",
+    "characters": [
+      "Wu Kong",
+      "Euden",
+      "Yulong"
+    ]
+  },
+  "252": {
+    "enName": "Nadine the Filter Fanatic",
+    "jpName": "盛り加工で映え、狙ってこ",
+    "chsName": "试试美图特效吧？",
+    "chtName": "挑戰上相美顏特效吧？",
+    "characters": [
+      "Cleo",
+      "Nadine",
+      "Luca",
+      "Ranzal",
+      "Zardin"
+    ]
+  },
+  "253": {
+    "enName": "Linnea's Grim Conclusion",
+    "jpName": "リナーシュの探してなかったもの",
+    "chsName": "利娜修不曾寻找的东西",
+    "chtName": "里娜尋的未尋之物",
+    "characters": [
+      "Linnea",
+      "Ranzal",
+      "Luca"
+    ]
+  },
+  "254": {
+    "enName": "Glasses",
+    "jpName": "メガネ",
+    "chsName": "眼镜",
+    "chtName": "眼鏡",
+    "characters": [
+      "Prometheus",
+      "Midgardsormr",
+      "Edward"
+    ]
+  },
+  "255": {
+    "enName": "Cut That Rug!",
+    "jpName": "レッツダンス！",
+    "chsName": "来跳舞吧！",
+    "chtName": "Let's Dance！",
+    "characters": [
+      "Orsem",
+      "Luther"
+    ]
+  },
+  "256": {
+    "enName": "Kisses for Zena",
+    "jpName": "ゼーナにちゅー",
+    "chsName": "亲亲泽娜",
+    "chtName": "親親潔那",
+    "characters": [
+      "Zena",
+      "Notte",
+      "Annelie"
+    ]
+  },
+  "257": {
+    "enName": "Contains Spoilers for Chapter 11",
+    "jpName": "第11章ネタバレ注意",
+    "chsName": "小心第11章剧透",
+    "chtName": "第11章劇透注意",
+    "characters": [
+      "Laxi",
+      "Mascula",
+      "Luca"
+    ]
+  },
+  "258": {
+    "enName": "Valyx's Kindness",
+    "jpName": "ヴァルクスのやさしさ",
+    "chsName": "巴尔库斯式温柔",
+    "chtName": "溫柔的范爾克斯",
+    "characters": [
+      "Valyx"
+    ]
+  },
+  "259": {
+    "enName": "Eugene the Introvert",
+    "jpName": "日陰少年ユージン",
+    "chsName": "阴暗少年尤金",
+    "chtName": "陰暗少年幽吉",
+    "characters": [
+      "Sam",
+      "Eugene",
+      "Elisanne",
+      "Luca"
+    ]
+  },
+  "260": {
+    "enName": "Catherine the Perfect Lady",
+    "jpName": "パーフェクトお嬢様カトリーヌ",
+    "chsName": "完美大小姐凯瑟琳",
+    "chtName": "完美大小姐凱瑟琳",
+    "characters": [
+      "Catherine",
+      "Eugene",
+      "Notte",
+      "Yaten"
+    ]
+  },
+  "261": {
+    "enName": "We Hail from Hinomoto",
+    "jpName": "故郷はヒノモト",
+    "chsName": "故乡是日出之国",
+    "chtName": "故鄉日初之國",
+    "characters": [
+      "Botan",
+      "Taro",
+      "Musashi",
+      "Ieyasu",
+      "Mitsuhide",
+      "Yachiyo"
+    ]
+  },
+  "262": {
+    "enName": "Taro's Homesickness",
+    "jpName": "タロウ・ホームシック",
+    "chsName": "思乡的太郎",
+    "chtName": "太郎‧思鄉",
+    "characters": [
+      "Taro",
+      "Musashi",
+      "Erik",
+      "Euden"
+    ]
+  },
+  "263": {
+    "enName": "Botan's Homesickness",
+    "jpName": "ボタン・ホームシック",
+    "chsName": "思乡的牡丹",
+    "chtName": "牡丹‧思鄉",
+    "characters": [
+      "Botan",
+      "Ieyasu",
+      "Musashi",
+      "Jiang Ziya"
+    ]
+  },
+  "264": {
+    "enName": "Euden for Everyone",
+    "jpName": "みんなのユーディル",
+    "chsName": "大家的尤蒂尔",
+    "chtName": "大家的尤帝爾",
+    "characters": [
+      "Kirsty",
+      "Notte",
+      "Taro",
+      "Botan",
+      "Waike",
+      "Xania",
+      "Euden"
+    ]
+  },
+  "265": {
+    "enName": "Surfing Mikoto",
+    "jpName": "サーファーミコト",
+    "chsName": "冲浪的米科特",
+    "chtName": "衝浪者‧尊",
+    "characters": [
+      "Mikoto",
+      "Euden"
+    ]
+  },
+  "266": {
+    "enName": "Patia's Ordeal",
+    "jpName": "パティアの試練",
+    "chsName": "帕蒂亚的试炼",
+    "chtName": "帕媞亞的試煉",
+    "characters": [
+      "Patia",
+      "Celliera"
+    ]
+  },
+  "267": {
+    "enName": "Knight's Testaments",
+    "jpName": "きしのあかし",
+    "chsName": "骑士之证",
+    "chtName": "騎士之證",
+    "characters": [
+      "Kindling Imp",
+      "Euden",
+      "Hinata",
+      "Gust Drake",
+      "Luca"
+    ]
+  },
+  "268": {
+    "enName": "A New Horse",
+    "jpName": "新しいお馬さん",
+    "chsName": "新的马儿",
+    "chtName": "新的小馬兒",
+    "characters": [
+      "Chelle",
+      "Elisanne"
+    ]
+  },
+  "269": {
+    "enName": "RETREEEEEAT!",
+    "jpName": "どうしても",
+    "chsName": "无论如何",
+    "chtName": "無論如何",
+    "characters": [
+      "Alain",
+      "Ranzal",
+      "Elisanne"
+    ]
+  },
+  "270": {
+    "enName": "Comic Stylings",
+    "jpName": "ラキシたちの漫才ショー",
+    "chsName": "莱姬希拉的对口相声",
+    "chtName": "拉契希拉相聲表演",
+    "characters": [
+      "Laxi",
+      "Mascula",
+      "Ranzal",
+      "Luca"
+    ]
+  },
+  "271": {
+    "enName": "The Demanding Clients",
+    "jpName": "気になるノーストン",
+    "chsName": "诺斯通很介意",
+    "chtName": "諾斯敦很介意",
+    "characters": [
+      "Norwin",
+      "Siren"
+    ]
+  },
+  "272": {
+    "enName": "An Explosive Vacation",
+    "jpName": "シノアと実験とバカンス",
+    "chsName": "希诺亚与实验与度假",
+    "chtName": "筱婭與實驗與度假",
+    "characters": [
+      "Sinoa",
+      "Luca",
+      "Rex"
+    ]
+  },
+  "273": {
+    "enName": "Helpful Signage",
+    "jpName": "看板娘アマネ",
+    "chsName": "招牌女孩天音",
+    "chtName": "看板娘天音",
+    "characters": [
+      "Amane",
+      "Nina",
+      "Verica",
+      "Norwin"
+    ]
+  },
+  "274": {
+    "enName": "A Thrilling Summer Curry",
+    "jpName": "暑い日のカレーとスリル",
+    "chsName": "酷暑天的咖喱与刺激感",
+    "chtName": "酷暑的咖哩與刺激",
+    "characters": [
+      "Joe",
+      "Leonidas"
+    ]
+  },
+  "275": {
+    "enName": "A Sweet Trap",
+    "jpName": "屋台トラップ!",
+    "chsName": "小摊陷阱！",
+    "chtName": "攤販陷阱！",
+    "characters": [
+      "Curran",
+      "Lathna",
+      "Nyarlathotep",
+      "Natalie",
+      "Heinwald"
+    ]
+  },
+  "276": {
+    "enName": "A Taste of His Own Medicine",
+    "jpName": "カサンドラショック",
+    "chsName": "卡珊德拉很受伤",
+    "chtName": "卡珊德拉大受打擊",
+    "characters": [
+      "Cassandra",
+      "Berserker",
+      "Amane",
+      "Pia",
+      "Lowen"
+    ]
+  },
+  "277": {
+    "enName": "The Future of Movement",
+    "jpName": "移動してみたかった",
+    "chsName": "想试着这样移动",
+    "chtName": "想要嘗試的移動方式",
+    "characters": [
+      "Ku Hai",
+      "Peng Lai",
+      "Euden"
+    ]
+  },
+  "278": {
+    "enName": "Ricardt's Confidence Training",
+    "jpName": "リカートの克服訓練",
+    "chsName": "里卡多的克服训练",
+    "chtName": "理卡特的克服訓練",
+    "characters": [
+      "Poli'ahu",
+      "Ricardt"
+    ]
+  },
+  "279": {
+    "enName": "Ricardt's...Confidence Training",
+    "jpName": "リカートの克服 訓練",
+    "chsName": "里卡多的克服？训练",
+    "chtName": "理卡特的克服？訓練",
+    "characters": [
+      "Ricardt",
+      "Hope",
+      "Edward"
+    ]
+  },
+  "280": {
+    "enName": "Words Are Difficult",
+    "jpName": "言葉、むずかしい",
+    "chsName": "语言真是深奥",
+    "chtName": "說話真難",
+    "characters": [
+      "Ricardt",
+      "Pipple",
+      "Hope",
+      "Maribelle"
+    ]
+  },
+  "281": {
+    "enName": "Words Are Still Difficult",
+    "jpName": "言葉、むずかしいその後",
+    "chsName": "语言真是深奥·续",
+    "chtName": "續．說話真難",
+    "characters": [
+      "Ricardt",
+      "Hope",
+      "Edward",
+      "Maribelle"
+    ]
+  },
+  "282": {
+    "enName": "Pinon's Destructive Voice",
+    "jpName": "ピノンの一撃必殺ボイス",
+    "chsName": "皮诺的一击必杀之音",
+    "chtName": "琵儂的一擊必殺之聲",
+    "characters": [
+      "Pinon",
+      "Elisanne",
+      "Lucretia"
+    ]
+  },
+  "283": {
+    "enName": "Nevin and Ramiel",
+    "jpName": "ネヴィンとラミエル",
+    "chsName": "奈文和拉米艾尔",
+    "chtName": "涅因和雷米爾",
+    "characters": [
+      "Nevin",
+      "Ramiel",
+      "Ranzal"
+    ]
+  },
+  "284": {
+    "enName": "A Challenger Approaches!",
+    "jpName": "ライバル！？",
+    "chsName": "竞争对手！？",
+    "chtName": "競爭對手!",
+    "characters": [
+      "Laxi",
+      "Elisanne",
+      "Sarisse",
+      "Ranzal",
+      "Cleo"
+    ]
+  },
+  "285": {
+    "enName": "Leonidas's Weakness",
+    "jpName": "レオニードの弱点",
+    "chsName": "莱昂尼多的弱点",
+    "chtName": "雷歐尼特的弱點",
+    "characters": [
+      "Leonidas",
+      "Euden",
+      "Elisanne",
+      "Leif"
+    ]
+  },
+  "286": {
+    "enName": "Providing Mischief",
+    "jpName": "やんちゃサービス",
+    "chsName": "展现不良",
+    "chtName": "不良體驗",
+    "characters": [
+      "Yuya",
+      "Poliʻahu",
+      "Fritz"
+    ]
+  },
+  "287": {
+    "enName": "The New Nefaria",
+    "jpName": "イメチェンネファリエ",
+    "chsName": "奈法利耶改头换面",
+    "chtName": "改變形象的涅法莉耶",
+    "characters": [
+      "Nefaria",
+      "Nadine",
+      "Kirsty"
+    ]
+  },
+  "288": {
+    "enName": "Ultra Zardin Cosmetics",
+    "jpName": "ウルトラシャーディコスメティック",
+    "chsName": "夏迪终极美妆",
+    "chtName": "極致夏迪美妝品",
+    "characters": [
+      "Hanabusa",
+      "Elisanne",
+      "Zardin",
+      "Notte"
+    ]
+  },
+  "289": {
+    "enName": "The Skinny on Adventures",
+    "jpName": "ロマン&リスク",
+    "chsName": "浪漫&风险",
+    "chtName": "浪漫&風險",
+    "characters": [
+      "Marty",
+      "Ranzal",
+      "Cleo"
+    ]
+  },
+  "290": {
+    "enName": "Fluffy Hands",
+    "jpName": "両手にモフモフ",
+    "chsName": "双手毛茸茸",
+    "chtName": "兩手毛茸茸",
+    "characters": [
+      "Cerberus",
+      "Elisanne",
+      "Euden",
+      "Cleo"
+    ]
+  },
+  "291": {
+    "enName": "Notte's Self-Care",
+    "jpName": "ナームのお手入れ",
+    "chsName": "纳姆的保养方式",
+    "chtName": "那姆的保養方式",
+    "characters": [
+      "Notte",
+      "Aldred"
+    ]
+  },
+  "292": {
+    "enName": "Defenders of the Crown",
+    "jpName": "聖城を守ろう！",
+    "chsName": "保护圣城吧！",
+    "chtName": "守護聖城吧！",
+    "characters": [
+      "Euden",
+      "Leif",
+      "Lazry",
+      "Sinoa"
+    ]
+  },
+  "293": {
+    "enName": "Second Anniversary",
+    "jpName": "2周年ありがとうございます!!",
+    "chsName": "欢庆2周年！",
+    "chtName": "歡慶兩週年！！",
+    "characters": [
+      "Euden",
+      "Notte",
+      "Cleo",
+      "Elisanne",
+      "Luca",
+      "Ranzal",
+      "Mercury"
+    ]
+  },
+  "294": {
+    "enName": "Changing Zena",
+    "jpName": "ゼーナの七変化",
+    "chsName": "千变万化的泽娜",
+    "chtName": "千變萬化的潔那",
+    "characters": [
+      "Zena",
+      "Mitsuhide",
+      "Bonnie",
+      "Fritz",
+      "Annelie",
+      "Ranzal"
+    ]
+  },
+  "295": {
+    "enName": "Meene, Faerie from the Past",
+    "jpName": "千年前の妖精メーネ",
+    "chsName": "一千年前的精灵梅奈",
+    "chtName": "千年前的妖精梅涅",
+    "characters": [
+      "Meene",
+      "Zethia",
+      "Notte",
+      "Ranzal"
+    ]
+  },
+  "296": {
+    "enName": "Ilia the Genius Alchemist",
+    "jpName": "天才錬金術師イリア",
+    "chsName": "天才炼金术士伊莉雅",
+    "chtName": "天才煉金術師‧伊利亞",
+    "characters": [
+      "Ilia",
+      "Zethia",
+      "Mordecai",
+      "Luca",
+      "Cleo"
+    ]
+  },
+  "297": {
+    "enName": "Mordecai's Desire for Knowledge",
+    "jpName": "知りたいモルティス",
+    "chsName": "莫尔提斯很好奇",
+    "chtName": "充滿好奇心的摩堤斯",
+    "characters": [
+      "Mordecai",
+      "Ilia",
+      "Meene"
+    ]
+  },
+  "298": {
+    "enName": "Melsa's Best Effort",
+    "jpName": "メルサの力作",
+    "chsName": "梅露莎的得意之作",
+    "chtName": "梅兒莎的得意之作",
+    "characters": [
+      "Melsa",
+      "Sarisse",
+      "Luca"
+    ]
+  },
+  "299": {
+    "enName": "Akasha the Vampire",
+    "jpName": "吸血鬼なアカーシャ",
+    "chsName": "吸血鬼阿加莎",
+    "chtName": "吸血鬼阿迦奢",
+    "characters": [
+      "Akasha",
+      "Heinwald"
+    ]
+  },
+  "300": {
+    "enName": "Lapis the Phantom Thief",
+    "jpName": "怪盗ラピス",
+    "chsName": "怪盗拉碧丝",
+    "chtName": "怪盜拉碧絲",
+    "characters": [
+      "Lapis",
+      "Elisanne",
+      "Ranzal"
+    ]
+  },
+  "301": {
+    "enName": "Karina the Star",
+    "jpName": "ヒロインはカーリナ",
+    "chsName": "女主角卡丽娜",
+    "chtName": "女主角卡麗娜",
+    "characters": [
+      "Karina"
+    ]
+  },
+  "302": {
+    "enName": "Contains Spoilers for Chapter 16",
+    "jpName": "第16章ネタバレ注意",
+    "chsName": "小心第16章剧透",
+    "chtName": "第16章劇透注意",
+    "characters": [
+      "Chelle",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "303": {
+    "enName": "Howdy, Partners!",
+    "jpName": "フリーダムフレンズ",
+    "chsName": "自由之友",
+    "chtName": "自由的朋友們",
+    "characters": [
+      "Joachim",
+      "Euden",
+      "Mikoto",
+      "Durant",
+      "Aoi"
+    ]
+  },
+  "304": {
+    "enName": "Noelle Vs. The Bandits",
+    "jpName": "ノエルvs野盗ちゃんズ！",
+    "chsName": "诺艾尔vs强盗们",
+    "chtName": "諾艾兒vs山賊們！",
+    "characters": [
+      "Noelle",
+      "Bandit",
+      "Thief",
+      "AC-011 Garland"
+    ]
+  },
+  "305": {
+    "enName": "Leonidas the Prince",
+    "jpName": "レオニードは王子様",
+    "chsName": "莱昂尼多是王子殿下",
+    "chtName": "雷歐尼特是王子大人",
+    "characters": [
+      "Leonidas",
+      "Chelle"
+    ]
+  },
+  "306": {
+    "enName": "Pecorine's Popularity",
+    "jpName": "ペコリーヌ、恋される",
+    "chsName": "受欢迎的佩可莉姆",
+    "chtName": "大受歡迎的貪吃佩可",
+    "characters": [
+      "Pecorine",
+      "Cleo",
+      "Mitsuba",
+      "Pipple"
+    ]
+  },
+  "307": {
+    "enName": "Forage Like Your Life Depends on It",
+    "jpName": "野外料理は命がけ",
+    "chsName": "拼上性命的野炊",
+    "chtName": "賭上性命的野炊料理",
+    "characters": [
+      "Mitsuba",
+      "Thaniel",
+      "Erik"
+    ]
+  },
+  "308": {
+    "enName": "Sleeping Bag Blues",
+    "jpName": "いつでもどこでも",
+    "chsName": "永不分离",
+    "chtName": "始終在一起",
+    "characters": [
+      "Cleo",
+      "Yaten"
+    ]
+  },
+  "309": {
+    "enName": "Lily and Her Merry Reindeer",
+    "jpName": "リリィとゆかいなトナカイたち",
+    "chsName": "莉莉与欢乐的驯鹿们",
+    "chtName": "莉莉與愉快的馴鹿們",
+    "characters": [
+      "Lily",
+      "Ranzal",
+      "Berserker",
+      "Hope"
+    ]
+  },
+  "310": {
+    "enName": "Saint Starfall, Engage!",
+    "jpName": "にこにこ！サンメテオール",
+    "chsName": "圣星使者笑眯眯！",
+    "chtName": "笑容滿面！聖夜使者",
+    "characters": [
+      "Lily",
+      "Victor",
+      "Luca"
+    ]
+  },
+  "311": {
+    "enName": "The Many Sides of Seimei",
+    "jpName": "ギャップ☆セイメイ",
+    "chsName": "反差☆晴明",
+    "chtName": "反差☆晴明",
+    "characters": [
+      "Seimei",
+      "Gozu Tenno",
+      "Marvelous Naoto"
+    ]
+  },
+  "312": {
+    "enName": "Yoshitsune at Full Power",
+    "jpName": "全力ヨシツネ",
+    "chsName": "全力以赴的义经",
+    "chtName": "全力以赴的義經",
+    "characters": [
+      "Yoshitsune",
+      "Notte",
+      "Mitsuhide"
+    ]
+  },
+  "313": {
+    "enName": "Kuzunoha's Trick",
+    "jpName": "クズハの十八番",
+    "chsName": "葛叶的拿手好戏",
+    "chtName": "葛葉的拿手好戲",
+    "characters": [
+      "Kuzunoha",
+      "Seimei",
+      "Luca",
+      "Gozu Tenno"
+    ]
+  },
+  "314": {
+    "enName": "Dragging Out the Truth",
+    "jpName": "縁起のいい情報屋さん",
+    "chsName": "有好兆头的线人",
+    "chtName": "好兆頭的情報商",
+    "characters": [
+      "Elisanne",
+      "Euden",
+      "Ieyasu",
+      "Shishimai",
+      "Matilda"
+    ]
+  },
+  "315": {
+    "enName": "Cultural Exchange",
+    "jpName": "異文化コミュニケーション！",
+    "chsName": "异文化交流！",
+    "chtName": "異文化交流！",
+    "characters": [
+      "Luca",
+      "Hanabusa",
+      "Cleo",
+      "Kuzunoha",
+      "Sarisse",
+      "Sylas"
+    ]
+  },
+  "316": {
+    "enName": "Clean as a Whistle",
+    "jpName": "戦闘のあとは",
+    "chsName": "战斗过后",
+    "chtName": "戰鬥結束後",
+    "characters": [
+      "Chelle",
+      "Cat Sìth",
+      "Euden",
+      "Elisanne"
+    ]
+  },
+  "317": {
+    "enName": "A Sour Experience",
+    "jpName": "おいしいぶどうジュース",
+    "chsName": "美味的葡萄汁",
+    "chtName": "美味的葡萄汁",
+    "characters": [
+      "Emile",
+      "Imperial Soldier",
+      "Man",
+      "Mercury"
+    ]
+  },
+  "318": {
+    "enName": "Hot Springs Hairdon't",
+    "jpName": "たのしい温泉",
+    "chsName": "愉快的温泉体验",
+    "chtName": "愉快的溫泉",
+    "characters": [
+      "Emile",
+      "Imperial Soldier",
+      "Euden",
+      "Ranzal"
+    ]
+  },
+  "319": {
+    "enName": "Cat-astrophe",
+    "jpName": "しっかりお世話",
+    "chsName": "悉心照料",
+    "chtName": "確實照顧",
+    "characters": [
+      "Emile",
+      "Imperial Soldier",
+      "Leonidas"
+    ]
+  },
+  "320": {
+    "enName": "Searching for Yaten",
+    "jpName": "ヤテンを探しています",
+    "chsName": "寻找夜天",
+    "chtName": "尋找夜天",
+    "characters": [
+      "Natalie",
+      "Elisanne",
+      "Yaten"
+    ]
+  },
+  "321": {
+    "enName": "Wrap Party",
+    "jpName": "準備は完璧☆",
+    "chsName": "万事俱备☆",
+    "chtName": "萬全準備☆",
+    "characters": [
+      "Chelsea",
+      "Sarisse",
+      "Cleo"
+    ]
+  },
+  "322": {
+    "enName": "His First Valentine's",
+    "jpName": "バレンタインデビュー",
+    "chsName": "初次体验情人节",
+    "chtName": "情人節初體驗",
+    "characters": [
+      "Eugene",
+      "Aurien",
+      "Luca",
+      "Ranzal",
+      "Cleo",
+      "Nicolas",
+      "Pia"
+    ]
+  },
+  "323": {
+    "enName": "Dream Duet",
+    "jpName": "夢のハーモニー",
+    "chsName": "梦之和声",
+    "chtName": "夢幻和聲",
+    "characters": [
+      "Euden",
+      "Mym",
+      "Lucretia",
+      "Siren",
+      "Karina",
+      "Maritimus",
+      "Notte"
+    ]
+  },
+  "324": {
+    "enName": "Disaster Resistant",
+    "jpName": "災い耐性100％",
+    "chsName": "灾厄抗性100%",
+    "chtName": "災難抗性100％",
+    "characters": [
+      "Pazuzu",
+      "Notte",
+      "Luca"
+    ]
+  },
+  "325": {
+    "enName": "The Way of the Ninja",
+    "jpName": "シノビの習慣",
+    "chsName": "忍者的习惯",
+    "chtName": "忍者的習慣",
+    "characters": [
+      "Valerio",
+      "Jurota",
+      "Mitsuba"
+    ]
+  },
+  "326": {
+    "enName": "Staying Alert",
+    "jpName": "気を引き締めて…",
+    "chsName": "绷紧神经……",
+    "chtName": "繃緊神經…",
+    "characters": [
+      "Jurota",
+      "Euden",
+      "Ranzal",
+      "Cleo",
+      "Pia"
+    ]
+  },
+  "327": {
+    "enName": "Ryszarda's Problems",
+    "jpName": "リィザのお悩み",
+    "chsName": "里莎的烦恼",
+    "chtName": "理薩的煩惱",
+    "characters": [
+      "Ryszarda",
+      "Nadine",
+      "Mym"
+    ]
+  },
+  "328": {
+    "enName": "Walking with Faris",
+    "jpName": "フワラスと聖城散歩",
+    "chsName": "与弗拉斯在圣城散步",
+    "chtName": "與法朗斯一起漫步聖城",
+    "characters": [
+      "Faris",
+      "Euden",
+      "Gauld",
+      "Gloom Drake",
+      "Xander",
+      "Nevin"
+    ]
+  },
+  "329": {
+    "enName": "Likeminded Souls",
+    "jpName": "同類たち",
+    "chsName": "同道中人",
+    "chtName": "物以類聚",
+    "characters": [
+      "Delphi",
+      "Euden",
+      "Ranzal",
+      "Louise",
+      "Shion"
+    ]
+  },
+  "330": {
+    "enName": "Dressed for Justice",
+    "jpName": "ジャスティスな装い",
+    "chsName": "正义之装",
+    "chtName": "正義的裝扮",
+    "characters": [
+      "Sarisse",
+      "Karl",
+      "Luca"
+    ]
+  },
+  "331": {
+    "enName": "Nothin' but a Number",
+    "jpName": "恋バナ初心者",
+    "chsName": "恋爱八卦新手",
+    "chtName": "戀愛話題的新手",
+    "characters": [
+      "Mym",
+      "Cassandra"
+    ]
+  },
+  "332": {
+    "enName": "A Huge Misunderstanding",
+    "jpName": "とんでもない誤解",
+    "chsName": "天大的误会",
+    "chtName": "天大的誤會",
+    "characters": [
+      "Elisanne",
+      "Matilda",
+      "Ranzal"
+    ]
+  },
+  "333": {
+    "enName": "Eirene's Best Effort",
+    "jpName": "アイリーン、頑張る",
+    "chsName": "艾琳会努力的",
+    "chtName": "艾零，會加油的",
+    "characters": [
+      "Eirene",
+      "Finni",
+      "Ranzal",
+      "Laxi"
+    ]
+  },
+  "334": {
+    "enName": "Finni's Special Onigiri",
+    "jpName": "フィニーの特製おにぎり",
+    "chsName": "芬妮的特制饭团",
+    "chtName": "菲霓的特製飯糰",
+    "characters": [
+      "Finni",
+      "Cleo",
+      "Mitsuba",
+      "Arctos"
+    ]
+  },
+  "335": {
+    "enName": "A Special Warmth",
+    "jpName": "大切なあたたかさ",
+    "chsName": "珍贵的暖意",
+    "chtName": "珍惜的溫暖",
+    "characters": [
+      "Cassandra",
+      "Mym"
+    ]
+  },
+  "336": {
+    "enName": "Triple the Trouble",
+    "jpName": "ケルベロスの苦悩",
+    "chsName": "坎贝萝丝的烦恼",
+    "chtName": "凱爾貝洛斯的煩惱",
+    "characters": [
+      "Cerberus",
+      "Luca",
+      "Euden"
+    ]
+  },
+  "337": {
+    "enName": "The Truth about Alberius",
+    "jpName": "アルベリウスの真実",
+    "chsName": "阿尔贝琉斯的真面目",
+    "chtName": "阿爾博流斯的真相",
+    "characters": [
+      "Alberius",
+      "Nicolas",
+      "Ranzal",
+      "Midgardsormr"
+    ]
+  },
+  "338": {
+    "enName": "Myriam's Diagnosis",
+    "jpName": "ムムジアンヌの症状",
+    "chsName": "穆穆雅娜的症状",
+    "chtName": "慕慕潔安的症狀",
+    "characters": [
+      "Myriam",
+      "Cleo",
+      "Alberius"
+    ]
+  },
+  "339": {
+    "enName": "Midgardsormr's Compromise",
+    "jpName": "ミドガルズオルムと相棒",
+    "chsName": "耶梦加得与搭档",
+    "chtName": "耶夢加得與夥伴",
+    "characters": [
+      "Humanoid Midgardsormr",
+      "Alberius",
+      "Myriam"
+    ]
+  },
+  "340": {
+    "enName": "Contains Spoilers for Chapter 15",
+    "jpName": "15章ネタバレ注意",
+    "chsName": "小心第15章剧透",
+    "chtName": "第15章劇透注意",
+    "characters": [
+      "Euden",
+      "Mym",
+      "Luca",
+      "Nedrick",
+      "Zethia"
+    ]
+  },
+  "341": {
+    "enName": "The Power of Pretend",
+    "jpName": "花と舞",
+    "chsName": "花与舞",
+    "chtName": "花與舞",
+    "characters": [
+      "Hanabusa",
+      "Euden",
+      "Julietta",
+      "Notte",
+      "Cleo"
+    ]
+  },
+  "342": {
+    "enName": "Contains Spoilers for Chapter 18",
+    "jpName": "18章ネタバレ注意",
+    "chsName": "小心第18章剧透",
+    "chtName": "第18章劇透注意",
+    "characters": [
+      "Notte",
+      "Euden"
+    ]
+  },
+  "343": {
+    "enName": "His Secret Weapon",
+    "jpName": "とっておきの武器",
+    "chsName": "秘密武器",
+    "chtName": "秘密武器",
+    "characters": [
+      "Child Ranzal",
+      "Ranzal",
+      "Ezelith",
+      "Elisanne",
+      "Mym"
+    ]
+  },
+  "344": {
+    "enName": "Ms. Mercury Investigates",
+    "jpName": "潜入！マーキュリー先生",
+    "chsName": "墨丘利老师来了！",
+    "chtName": "潛入！墨丘利老師",
+    "characters": [
+      "Humanoid Mercury",
+      "Emile"
+    ]
+  },
+  "345": {
+    "enName": "A Rare Find",
+    "jpName": "思わぬ需要",
+    "chsName": "意外之需",
+    "chtName": "意料之外的需求",
+    "characters": [
+      "Cleo",
+      "Pietro",
+      "Notte"
+    ]
+  },
+  "346": {
+    "enName": "A Muddled Victory",
+    "jpName": "先手必勝",
+    "chsName": "先发制人",
+    "chtName": "先發制人",
+    "characters": [
+      "Xander",
+      "Odetta",
+      "Nefaria",
+      "Ranzal",
+      "Festive Treant"
+    ]
+  },
+  "347": {
+    "enName": "The Castaways",
+    "jpName": "やんごとなき遭難",
+    "chsName": "尊贵的遇难",
+    "chtName": "尊貴的遇難",
+    "characters": [
+      "Daikokuten",
+      "Luca",
+      "Jurota",
+      "Erik"
+    ]
+  },
+  "348": {
+    "enName": "The Machinery of Joy",
+    "jpName": "ラズリーの機械",
+    "chsName": "拉兹莉的机器",
+    "chtName": "菈茲莉的機械",
+    "characters": [
+      "Lazry",
+      "Ranzal",
+      "Ramona",
+      "Leonidas"
+    ]
+  },
+  "349": {
+    "enName": "Greetings, Grimnir",
+    "jpName": "ようこそグリームニル",
+    "chsName": "欢迎格里姆尼尔",
+    "chtName": "歡迎格里姆尼爾",
+    "characters": [
+      "Grimnir",
+      "Luca",
+      "Bellina"
+    ]
+  },
+  "350": {
+    "enName": "Vania Vants a Bite!",
+    "jpName": "ヴァンピィ、ハムハム",
+    "chsName": "斑比啃啊啃",
+    "chtName": "班比咬啊咬",
+    "characters": [
+      "Vania",
+      "Euden",
+      "Mym",
+      "Albert"
+    ]
+  },
+  "351": {
+    "enName": "Halidom Horrors",
+    "jpName": "聖城のウワサ",
+    "chsName": "圣城谣言",
+    "chtName": "聖城的謠言",
+    "characters": [
+      "Ranzal",
+      "Berserker",
+      "Yue"
+    ]
+  },
+  "352": {
+    "enName": "Saiga's Path",
+    "jpName": "サイガの選ぶ道",
+    "chsName": "杂贺选择的路",
+    "chtName": "雜賀選擇之路",
+    "characters": [
+      "Saiga",
+      "Elisanne"
+    ]
+  },
+  "353": {
+    "enName": "Yachiyo's Mistake",
+    "jpName": "ヤチヨ、ウッカリ",
+    "chsName": "八千代大意了",
+    "chtName": "八千代，太大意了",
+    "characters": [
+      "Yachiyo",
+      "Maribelle",
+      "Karl",
+      "Linus"
+    ]
+  },
+  "354": {
+    "enName": "Notteshifting",
+    "jpName": "ナーム化！",
+    "chsName": "纳姆化！",
+    "chtName": "那姆化！",
+    "characters": [
+      "Notte",
+      "Elisanne",
+      "Ranzal",
+      "Luca",
+      "Cleo"
+    ]
+  },
+  "355": {
+    "enName": "Paw Proposal",
+    "jpName": "ニクキュウ",
+    "chsName": "肉球",
+    "chtName": "肉球",
+    "characters": [
+      "Maritimus",
+      "Euden"
+    ]
+  },
+  "356": {
+    "enName": "Dressed for Battle",
+    "jpName": "気合は装いから",
+    "chsName": "气势靠衣装",
+    "chtName": "氣勢靠服裝",
+    "characters": [
+      "Ranzal",
+      "Cleo"
+    ]
+  },
+  "357": {
+    "enName": "The Interrogation",
+    "jpName": "どうあがいても…",
+    "chsName": "百口莫辩……",
+    "chtName": "百口莫辯…",
+    "characters": [
+      "Cleo",
+      "Sha Wujing",
+      "Karl",
+      "Maribelle"
+    ]
+  },
+  "358": {
+    "enName": "A Real Jam",
+    "jpName": "ジャム&ジャム！",
+    "chsName": "卡壳&卡壳！",
+    "chtName": "卡彈＆卡彈！",
+    "characters": [
+      "Sarisse",
+      "Cleo"
+    ]
+  },
+  "359": {
+    "enName": "The Secret of the Slimes",
+    "jpName": "ゴールドスライムのひみつ",
+    "chsName": "黄金史莱姆的秘密",
+    "chtName": "黃金史萊姆的秘密",
+    "characters": [
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "360": {
+    "enName": "Isaac the Corporate Watchman",
+    "jpName": "若き番人イスハーク",
+    "chsName": "年轻的守护者以撒克",
+    "chtName": "年輕的守衛 伊斯哈克",
+    "characters": [
+      "Isaac",
+      "Euden",
+      "Sarisse"
+    ]
+  },
+  "361": {
+    "enName": "Contains Spoilers for Chapter 19",
+    "jpName": "19章ネタバレ注意",
+    "chsName": "小心第19章剧透",
+    "chtName": "第19章劇透注意",
+    "characters": [
+      "Mascula",
+      "Nadine",
+      "Laxi",
+      "Ranzal",
+      "Rex",
+      "Linus"
+    ]
+  },
+  "362": {
+    "enName": "A Day in the Life of a Smithwyrm",
+    "jpName": "ドラゴンスミスの日常",
+    "chsName": "龙工匠的日常",
+    "chtName": "龍族工匠的日常",
+    "characters": [
+      "Smithwyrm",
+      "Luca"
+    ]
+  },
+  "363": {
+    "enName": "Epimetheus the Hungry",
+    "jpName": "空腹エピメテウス",
+    "chsName": "饥渴的埃庇米修斯",
+    "chtName": "餓肚子的艾比米修斯",
+    "characters": [
+      "Epimetheus",
+      "Mym",
+      "Euden",
+      "Snow Drake"
+    ]
+  },
+  "364": {
+    "enName": "Nino's Cheeky Response",
+    "jpName": "素直になれないニーノ",
+    "chsName": "不坦率的妮诺",
+    "chtName": "無法坦率的尼諾",
+    "characters": [
+      "Nino",
+      "Raphael",
+      "Tobias"
+    ]
+  },
+  "365": {
+    "enName": "Tobias's Kindness",
+    "jpName": "優しいトライツ",
+    "chsName": "体贴的德莱茨",
+    "chtName": "溫柔的特萊茲",
+    "characters": [
+      "Tobias",
+      "Elisanne",
+      "Luca"
+    ]
+  },
+  "366": {
+    "enName": "Washing Woes",
+    "jpName": "趣味はパッチワーク",
+    "chsName": "缝补小能手",
+    "chtName": "興趣是拼布",
+    "characters": [
+      "Xiao Lei",
+      "Edward",
+      "Luca",
+      "Durant"
+    ]
+  },
+  "367": {
+    "enName": "A Short-Term Solution",
+    "jpName": "それはとてもシンプルな",
+    "chsName": "如此简单",
+    "chtName": "也太簡單",
+    "characters": [
+      "Vanessa",
+      "Xiao Lei",
+      "Edward",
+      "Luca",
+      "Durant"
+    ]
+  },
+  "368": {
+    "enName": "Fighting the Frizzies",
+    "jpName": "うねりにサヨナラ",
+    "chsName": "对毛躁说拜拜",
+    "chtName": "告別毛躁",
+    "characters": [
+      "Luca",
+      "Luther",
+      "Cleo",
+      "Mym"
+    ]
+  },
+  "369": {
+    "enName": "A Clean Break",
+    "jpName": "見事まっぷたつ！",
+    "chsName": "一刀两断！",
+    "chtName": "一分為二！",
+    "characters": [
+      "Alex",
+      "Elisanne",
+      "Ranzal"
+    ]
+  },
+  "370": {
+    "enName": "A Triple Dose of Pipple",
+    "jpName": "ピップルの謎",
+    "chsName": "啵噜的谜团",
+    "chtName": "皮普之謎",
+    "characters": [
+      "Pipple",
+      "Elisanne",
+      "Cleo",
+      "Lathna"
+    ]
+  },
+  "371": {
+    "enName": "Fire Work It",
+    "jpName": "ムム・スターマイン",
+    "chsName": "穆穆·仙花焰",
+    "chtName": "慕慕‧萬花齊放",
+    "characters": [
+      "Mym",
+      "Euden",
+      "Su Fang",
+      "Peng Lai"
+    ]
+  },
+  "372": {
+    "enName": "Love and Wrasslin'",
+    "jpName": "ラブシック☆パワー",
+    "chsName": "爱的☆力量",
+    "chtName": "戀患者☆力量大",
+    "characters": [
+      "Chelsea",
+      "Laranoa",
+      "Ranzal"
+    ]
+  },
+  "373": {
+    "enName": "A Harsh Truth",
+    "jpName": "残酷な真実",
+    "chsName": "残酷的真相",
+    "chtName": "殘酷的真相",
+    "characters": [
+      "Patia",
+      "Leif",
+      "Harle"
+    ]
+  },
+  "374": {
+    "enName": "Don't Knock the Knock-Offs",
+    "jpName": "お土産選びは慎重に",
+    "chsName": "挑伴手礼需谨慎",
+    "chtName": "切記慎選伴手禮",
+    "characters": [
+      "Ieyasu",
+      "Marishiten",
+      "Sazanka",
+      "Luca"
+    ]
+  },
+  "375": {
+    "enName": "Lazy Summer",
+    "jpName": "ミツヒデ様はだらだらしたい",
+    "chsName": "光秀大人想要放松",
+    "chtName": "光秀大人就想懶洋洋",
+    "characters": [
+      "Mitsuhide",
+      "Ieyasu",
+      "Addis"
+    ]
+  },
+  "376": {
+    "enName": "The Dangers of Hunger",
+    "jpName": "空腹危機一髪",
+    "chsName": "饥饿千钧一发",
+    "chtName": "千鈞一髮的飢餓危機",
+    "characters": [
+      "Cleo",
+      "Luca",
+      "Ranzal",
+      "Slime"
+    ]
+  },
+  "377": {
+    "enName": "The Agito Lunch Meeting",
+    "jpName": "アギトのランチMTG",
+    "chsName": "阿基德午餐会",
+    "chtName": "咢牙的午餐會議",
+    "characters": [
+      "Nedrick",
+      "Ayaha",
+      "Otoha",
+      "Ciella",
+      "Tartarus",
+      "Kai Yan",
+      "Volk"
+    ]
+  },
+  "378": {
+    "enName": "The Forgotten Man",
+    "jpName": "忘れて欲しいアスラム",
+    "chsName": "求忘记的亚斯拉姆",
+    "chtName": "想被遺忘的安斯拉姆",
+    "characters": [
+      "Cassandra",
+      "Audric",
+      "Sazanka",
+      "Douleur"
+    ]
+  },
+  "379": {
+    "enName": "A Brief Interruption",
+    "jpName": "きょうだいの戯れ",
+    "chsName": "手足“情深”",
+    "chtName": "手足間的玩笑",
+    "characters": [
+      "Leonidas",
+      "Emile",
+      "Chelle",
+      "Euden"
+    ]
+  },
+  "380": {
+    "enName": "Fun at Sea",
+    "jpName": "海の楽しみ方",
+    "chsName": "如何玩转大海",
+    "chtName": "享受大海的方法",
+    "characters": [
+      "Chelle",
+      "Emile",
+      "Cat Sìth"
+    ]
+  },
+  "381": {
+    "enName": "Rumor Has It...",
+    "jpName": "ウワサの尾ひれ",
+    "chsName": "添油加醋的传闻",
+    "chtName": "越來越誇張的傳聞",
+    "characters": [
+      "Euden",
+      "Siren",
+      "Leonidas"
+    ]
+  },
+  "382": {
+    "enName": "Currying Favor",
+    "jpName": "なかまがトラップ",
+    "chsName": "坑人的队友",
+    "chtName": "夥伴即圈套",
+    "characters": [
+      "Leonidas",
+      "Ranzal",
+      "Luca",
+      "Army Staff Officier",
+      "Leif"
+    ]
+  },
+  "383": {
+    "enName": "The Need for Speed",
+    "jpName": "情報タイムラグ",
+    "chsName": "信息滞后",
+    "chtName": "情報的時差",
+    "characters": [
+      "Lathna",
+      "Heinwald",
+      "Curran",
+      "Orsem",
+      "Cleo"
+    ]
+  },
+  "384": {
+    "enName": "The Candy Ma'am",
+    "jpName": "クラウの絶品飴",
+    "chsName": "库菈乌的极品糖",
+    "chtName": "克菈兒的極品糖漿",
+    "characters": [
+      "Cleo",
+      "Notte",
+      "Euden",
+      "Pipple",
+      "Yue",
+      "Sylas",
+      "Erik"
+    ]
+  },
+  "385": {
+    "enName": "Mikoto in Love",
+    "jpName": "ミコトの恋…？",
+    "chsName": "米科特的恋情？",
+    "chtName": "尊戀愛了…？",
+    "characters": [
+      "Mikoto",
+      "Mym",
+      "Euden",
+      "Ebisu",
+      "Freyja"
+    ]
+  },
+  "386": {
+    "enName": "Cecile's Nemesis",
+    "jpName": "セシルの天敵",
+    "chsName": "赛希尔的天敌",
+    "chtName": "賽席爾的天敵",
+    "characters": [
+      "Cecile",
+      "Elisanne",
+      "Leif"
+    ]
+  },
+  "387": {
+    "enName": "The Lunchtime Have-Nots",
+    "jpName": "ランチ持たざる者",
+    "chsName": "不受眷顾者的午餐",
+    "chtName": "買無午餐者",
+    "characters": [
+      "Ranzal",
+      "Volk",
+      "Mym",
+      "Euden"
+    ]
+  },
+  "388": {
+    "enName": "The Unbearable Lightness of Fleeing",
+    "jpName": "慣れすぎ問題",
+    "chsName": "适应过度也成愁",
+    "chtName": "太習慣是個問題",
+    "characters": [
+      "Leif",
+      "Chelle",
+      "Cecile"
+    ]
+  },
+  "389": {
+    "enName": "A Slovenly Spectacle",
+    "jpName": "いわくつきコレクション",
+    "chsName": "大有来头的收藏品",
+    "chtName": "有所隱情的收藏品",
+    "characters": [
+      "Ramiel",
+      "Victor",
+      "Nevin"
+    ]
+  },
+  "390": {
+    "enName": "Waitress Distress",
+    "jpName": "どさくさ！スカウト",
+    "chsName": "趁机挖角",
+    "chtName": "乘亂挖角",
+    "characters": [
+      "Styx",
+      "Gabriel",
+      "Mym",
+      "Pinon"
+    ]
+  },
+  "391": {
+    "enName": "Shocking Memories",
+    "jpName": "思い出はハラハラ",
+    "chsName": "忐忑的遗念",
+    "chtName": "回憶充滿不安",
+    "characters": [
+      "Grace",
+      "Bellina"
+    ]
+  },
+  "392": {
+    "enName": "The Pie Guys",
+    "jpName": "相棒思いなファルギルト",
+    "chsName": "为搭档着想的法尔吉德",
+    "chtName": "有搭檔愛的法爾杰托",
+    "characters": [
+      "Farren",
+      "Lil' Barb",
+      "Luca"
+    ]
+  },
+  "393": {
+    "enName": "The Nemesis",
+    "jpName": "パーフェクトな執事",
+    "chsName": "完美管家",
+    "chtName": "完美執事",
+    "characters": [
+      "Edward",
+      "Butler",
+      "Catherine"
+    ]
+  },
+  "394": {
+    "enName": "Pancake Panic",
+    "jpName": "パンケーキ作りは畑から",
+    "chsName": "做松饼从种地开始",
+    "chtName": "想做鬆餅先下田",
+    "characters": [
+      "Cleo",
+      "Nadine"
+    ]
+  },
+  "395": {
+    "enName": "Thanks for Three Great Years!",
+    "jpName": "3周年ありがとうございます!!!",
+    "chsName": "欢庆3周年！",
+    "chtName": "歡慶三週年！！！",
+    "characters": [
+      "Euden",
+      "Notte",
+      "Ranzal",
+      "Cleo",
+      "Mym",
+      "Brunhilda",
+      "Luca",
+      "Elisanne"
+    ]
+  },
+  "396": {
+    "enName": "Dreamin' of Steamin'",
+    "jpName": "楽しみ方いろいろ",
+    "chsName": "温泉的多样享受法",
+    "chtName": "各自的享受方式",
+    "characters": [
+      "Kagutsuchi",
+      "Ranzal",
+      "Luca"
+    ]
+  },
+  "397": {
+    "enName": "One Sweet Honey",
+    "jpName": "多才な司令官クイン",
+    "chsName": "多才司令奎茵",
+    "chtName": "多才司令官柯恩",
+    "characters": [
+      "Regina",
+      "Notte",
+      "Sandalphon"
+    ]
+  },
+  "398": {
+    "enName": "Best Friends Forever",
+    "jpName": "本物ハール！？",
+    "chsName": "哈尔本尊！？",
+    "chtName": "正牌哈魯!",
+    "characters": [
+      "Harle",
+      "Ranzal",
+      "Euden"
+    ]
+  },
+  "399": {
+    "enName": "Contains Spoilers for Chapter 21",
+    "jpName": "21章ネタバレ注意",
+    "chsName": "小心第21章剧透",
+    "chtName": "第21章劇透注意",
+    "characters": [
+      "Zethia",
+      "Euden",
+      "Notte",
+      "Bahamut"
+    ]
+  },
+  "400": {
+    "enName": "Basileus's Punishment",
+    "jpName": "ヴァースにおしおき",
+    "chsName": "惩罚法斯",
+    "chtName": "懲罰梵斯",
+    "characters": [
+      "Basileus",
+      "Michael",
+      "Luca"
+    ]
+  },
+  "401": {
+    "enName": "Sandalphon's Superfood",
+    "jpName": "天使の管理者サンダルフォン",
+    "chsName": "天使管理者圣德芬",
+    "chtName": "天使管理者聖德芬",
+    "characters": [
+      "Sandalphon",
+      "Raphael",
+      "Ryszarda",
+      "Mym"
+    ]
+  },
+  "402": {
+    "enName": "Arrow Errors",
+    "jpName": "矢の飛び方",
+    "chsName": "箭矢的飞行方式",
+    "chtName": "箭矢的軌道",
+    "characters": [
+      "Sarisse",
+      "Luca"
+    ]
+  },
+  "403": {
+    "enName": "A Just Solution",
+    "jpName": "解決策はシンプル",
+    "chsName": "解决办法很简单",
+    "chtName": "解決方式很簡單",
+    "characters": [
+      "Karl",
+      "Linus",
+      "Elisanne"
+    ]
+  },
+  "404": {
+    "enName": "A Master of Disguise",
+    "jpName": "完璧な変装",
+    "chsName": "完美变装",
+    "chtName": "完美的變裝",
+    "characters": [
+      "Beren",
+      "Sylas",
+      "Laxi",
+      "Euden"
+    ]
+  },
+  "405": {
+    "enName": "Laxi's Trick or Trick",
+    "jpName": "初！イタズラ三昧",
+    "chsName": "大肆恶作剧初体验！",
+    "chtName": "初次！大肆惡作劇",
+    "characters": [
+      "Laxi",
+      "Mascula",
+      "Chelsea",
+      "Luca",
+      "Yue",
+      "Ranzal"
+    ]
+  },
+  "406": {
+    "enName": "A Flaming Good Time",
+    "jpName": "具体的トリック",
+    "chsName": "另类恶作剧",
+    "chtName": "具體的惡作劇",
+    "characters": [
+      "Sylas",
+      "Lowen",
+      "Garuda",
+      "Luca"
+    ]
+  },
+  "407": {
+    "enName": "Postal Panic",
+    "jpName": "パパたちに歴史あり",
+    "chsName": "父辈有故事",
+    "chtName": "爸爸們的過去",
+    "characters": [
+      "Aurelius",
+      "Gatov",
+      "Leonidas"
+    ]
+  },
+  "408": {
+    "enName": "Mission: Impurse-ible",
+    "jpName": "ルピがあれば",
+    "chsName": "有金币就好",
+    "chtName": "只要有盧比",
+    "characters": [
+      "Humanoid Jupiter",
+      "Ranzal"
+    ]
+  },
+  "409": {
+    "enName": "Another Call to Order",
+    "jpName": "第二回ドラゴン会議",
+    "chsName": "第二届龙会议",
+    "chtName": "第二回龍族會議",
+    "characters": [
+      "Moon Drake",
+      "Pele",
+      "Jeanne d'Arc"
+    ]
+  },
+  "410": {
+    "enName": "Drumming Up Enthusiasm",
+    "jpName": "なかよし幼なじみ",
+    "chsName": "亲密的儿时玩伴",
+    "chtName": "相親相愛的兒時玩伴",
+    "characters": [
+      "Sylas",
+      "Luca",
+      "Ranzal",
+      "Yaten",
+      "Cleo"
+    ]
+  },
+  "411": {
+    "enName": "Contains Spoilers for Chapter 20",
+    "jpName": "20章ネタバレ注意",
+    "chsName": "小心第20章剧透",
+    "chtName": "第20章劇透注意",
+    "characters": [
+      "Gatov",
+      "Mym",
+      "Euden",
+      "Sheila",
+      "Aurelius"
+    ]
+  },
+  "412": {
+    "enName": "Papa Bear's Got a Brand New Coat",
+    "jpName": "寒がりネヴィンと…",
+    "chsName": "怕冷的奈文和……",
+    "chtName": "怕冷的涅因和…",
+    "characters": [
+      "Nevin",
+      "Cleo",
+      "Ramiel"
+    ]
+  },
+  "413": {
+    "enName": "The Curry-Out Window",
+    "jpName": "遊びは全力！",
+    "chsName": "玩乐当尽力！",
+    "chtName": "要玩就要盡情玩",
+    "characters": [
+      "Ilia",
+      "Mordecai",
+      "Leonidas"
+    ]
+  },
+  "414": {
+    "enName": "Who Let the Dogs Skate",
+    "jpName": "遊ぶワンコたち",
+    "chsName": "嬉戏的狗狗们",
+    "chtName": "玩鬧的狗狗們",
+    "characters": [
+      "Orsem",
+      "Durant"
+    ]
+  },
+  "415": {
+    "enName": "Shoulder Pad Fad",
+    "jpName": "肩の使い道",
+    "chsName": "肩膀的用途",
+    "chtName": "墊肩的用途",
+    "characters": [
+      "Catherine",
+      "Yuya",
+      "Melody",
+      "Euden",
+      "Peng Lai"
+    ]
+  },
+  "416": {
+    "enName": "Dinner Hell",
+    "jpName": "アヤハ＆オトハの夕飯リクエスト",
+    "chsName": "彩羽&乙羽的晚饭要求",
+    "chtName": "彩羽＆乙羽想吃的晚餐",
+    "characters": [
+      "Ayaha",
+      "Otoha",
+      "Notte",
+      "Musashi"
+    ]
+  },
+  "417": {
+    "enName": "Cuteness Wins Out",
+    "jpName": "可愛いは正義",
+    "chsName": "可爱即正义",
+    "chtName": "可愛即是正義",
+    "characters": [
+      "Lin You",
+      "Wu Kong",
+      "Mao Mao",
+      "Euden",
+      "Elisanne"
+    ]
+  },
+  "418": {
+    "enName": "A Dragonyule Charm Offensive",
+    "jpName": "サンメテオール・ピンチ！",
+    "chsName": "圣星使者的危机！",
+    "chtName": "聖夜使者危機！",
+    "characters": [
+      "Malora",
+      "Valyx",
+      "Elisanne",
+      "Luca"
+    ]
+  },
+  "419": {
+    "enName": "Can We Keep Him",
+    "jpName": "拾っていいものダメなもの",
+    "chsName": "路边的卢弗不要捡",
+    "chtName": "有的東西不能撿",
+    "characters": [
+      "Beast Volk",
+      "Ranzal",
+      "Volk",
+      "Euden",
+      "Sinoa"
+    ]
+  },
+  "420": {
+    "enName": "The New Year's Ball",
+    "jpName": "あけましておめでとう!!!!",
+    "chsName": "新年快乐！",
+    "chtName": "新年快樂!!!!",
+    "characters": [
+      "Euden",
+      "Notte",
+      "Luca",
+      "Elisanne",
+      "Cleo",
+      "Ranzal",
+      "Mym"
+    ]
+  },
+  "421": {
+    "enName": "The Trusting Man",
+    "jpName": "貫禄のあるシンゲン",
+    "chsName": "老成持重的信玄",
+    "chtName": "充滿威嚴的信玄",
+    "characters": [
+      "Shingen",
+      "Ranzal",
+      "Fudo Myo-o"
+    ]
+  },
+  "422": {
+    "enName": "Yukimura's Power Moves",
+    "jpName": "ユキムラの得意技",
+    "chsName": "幸村的拿手绝活",
+    "chtName": "幸村的拿手絕招",
+    "characters": [
+      "Yukimura",
+      "Elisanne",
+      "Julietta"
+    ]
+  },
+  "423": {
+    "enName": "Izumo's Disappearing Act",
+    "jpName": "イズモ、初めてのノリツッコミ？",
+    "chsName": "出云的首次吐槽挑战？",
+    "chtName": "出雲，第一次配合吐槽？",
+    "characters": [
+      "Izumo",
+      "Luca"
+    ]
+  },
+  "424": {
+    "enName": "Mochi Mochi Everywhere",
+    "jpName": "もちもちだらけ",
+    "chsName": "遍地软绵绵",
+    "chtName": "遍地年糕",
+    "characters": [
+      "Notte",
+      "Midgardsormr",
+      "Kuzunoha",
+      "Gozu Tenno",
+      "Seimei",
+      "Jurota"
+    ]
+  },
+  "425": {
+    "enName": "A Heartpounding Chase",
+    "jpName": "ドキドキ♪追いかけっこ",
+    "chsName": "心跳加速♪你追我赶",
+    "chtName": "心跳加速♪你追我跑",
+    "characters": [
+      "Zhu Bajie",
+      "Sha Wujing",
+      "Xuan Zang"
+    ]
+  },
+  "426": {
+    "enName": "The Trouble with Trends",
+    "jpName": "トレンド＆トラブル",
+    "chsName": "潮流＆麻烦",
+    "chtName": "流行＆麻煩",
+    "characters": [
+      "Euden",
+      "Peng Lai",
+      "Su Fang",
+      "Nefaria",
+      "Nadine",
+      "Cleo",
+      "Yuya"
+    ]
+  },
+  "427": {
+    "enName": "Emile's Soapy Situation",
+    "jpName": "エミュール、初めての洗濯",
+    "chsName": "艾缪尔首次洗衣挑战",
+    "chtName": "埃米爾，第一次洗衣服",
+    "characters": [
+      "Emile",
+      "Humanoid Mercury"
+    ]
+  },
+  "428": {
+    "enName": "Ultra Secret Weapon!",
+    "jpName": "ウルトラ奥の手！",
+    "chsName": "终极杀手锏！",
+    "chtName": "極致大絕招！",
+    "characters": [
+      "Zardin",
+      "Edward",
+      "Luca"
+    ]
+  },
+  "429": {
+    "enName": "Valyx's Grand Tour",
+    "jpName": "おしのびヴァルクス",
+    "chsName": "巴尔库斯微服出游",
+    "chtName": "私訪的范爾克斯",
+    "characters": [
+      "Valyx",
+      "Luca",
+      "Nadine",
+      "Thor",
+      "Luca & Sarisse's Mother",
+      "Luca & Sarisse's Father"
+    ]
+  },
+  "430": {
+    "enName": "Curiosities and the Cats",
+    "jpName": "ノンストップ探究心",
+    "chsName": "探索之心无止境",
+    "chtName": "永無止盡的探究心",
+    "characters": [
+      "Phares",
+      "Euden",
+      "Emile"
+    ]
+  },
+  "431": {
+    "enName": "A Genius's Valentine",
+    "jpName": "天才のバレンタイン",
+    "chsName": "天才的情人节",
+    "chtName": "天才的情人節",
+    "characters": [
+      "Ezelith",
+      "Melody",
+      "Nina",
+      "Ranzal"
+    ]
+  },
+  "432": {
+    "enName": "The Swole Shopkeep",
+    "jpName": "戦えるニーナ",
+    "chsName": "战士妮娜",
+    "chtName": "戰鬥妮娜",
+    "characters": [
+      "Nina",
+      "Elisanne",
+      "Irfan"
+    ]
+  },
+  "433": {
+    "enName": "A Hairy Situation",
+    "jpName": "悪影響",
+    "chsName": "负面影响",
+    "chtName": "壞榜樣",
+    "characters": [
+      "Lathna",
+      "Notte",
+      "Curran",
+      "Heinwald"
+    ]
+  },
+  "434": {
+    "enName": "Kitchen Consequential",
+    "jpName": "ユーヤのお手伝い",
+    "chsName": "勇也打下手",
+    "chtName": "勇也來幫忙",
+    "characters": [
+      "Cleo",
+      "Yuya",
+      "Ranzal"
+    ]
+  },
+  "435": {
+    "enName": "The Spring Has Sprung",
+    "jpName": "熱いのと冷たいの",
+    "chsName": "冰与火",
+    "chtName": "火與冰",
+    "characters": [
+      "Arctos",
+      "Maritimus"
+    ]
+  },
+  "436": {
+    "enName": "Zodiark's Love",
+    "jpName": "ゾディアークの愛",
+    "chsName": "佐迪亚克的爱",
+    "chtName": "索狄亞克之愛",
+    "characters": [
+      "Humanoid Zodiark",
+      "Mym",
+      "Humanoid Mercury"
+    ]
+  },
+  "437": {
+    "enName": "Art from the Heart",
+    "jpName": "時間稼ぎは慎重に!",
+    "chsName": "拖延时间要慎重！",
+    "chtName": "爭取時間須謹慎！",
+    "characters": [
+      "Pia",
+      "Eugene",
+      "Leif",
+      "Chelle",
+      "Cleo"
+    ]
+  },
+  "438": {
+    "enName": "Cuteness Overload",
+    "jpName": "ユーディル特効",
+    "chsName": "尤蒂尔特效",
+    "chtName": "尤帝爾特攻",
+    "characters": [
+      "Rena",
+      "Luca",
+      "Cinder Drake",
+      "Euden",
+      "Cleo"
+    ]
+  },
+  "439": {
+    "enName": "Grin and Bear It",
+    "jpName": "シーラ、心を感じる",
+    "chsName": "席菈，感受到心",
+    "chtName": "希拉，感受到心",
+    "characters": [
+      "Sheila",
+      "Notte",
+      "Celliera"
+    ]
+  },
+  "440": {
+    "enName": "Never Meet Your Heroes",
+    "jpName": "先生の正体",
+    "chsName": "作者的真实身份",
+    "chtName": "作者的真實身分",
+    "characters": [
+      "Elisanne",
+      "Aoi",
+      "Cassandra"
+    ]
+  },
+  "441": {
+    "enName": "Fan Disservice",
+    "jpName": "先生の正体と趣味",
+    "chsName": "作者的真实身份与兴趣",
+    "chtName": "作者的真實身分與興趣",
+    "characters": [
+      "Elisanne",
+      "Cassandra",
+      "Heinwald",
+      "Curran"
+    ]
+  },
+  "442": {
+    "enName": "Sating Nedrick",
+    "jpName": "ネデウの生態",
+    "chsName": "奈迪犹的生态",
+    "chtName": "涅帝爾的生態",
+    "characters": [
+      "Nedrick",
+      "Euden",
+      "Zethia",
+      "Zena"
+    ]
+  },
+  "443": {
+    "enName": "It's Snot Over Yet",
+    "jpName": "仕上げの霧吹き",
+    "chsName": "最后喷喷水",
+    "chtName": "噴霧後大功告成",
+    "characters": [
+      "Luther",
+      "Euden",
+      "Sazanka",
+      "Ranzal"
+    ]
+  },
+  "444": {
+    "enName": "Choices, Choices",
+    "jpName": "よりどりみどり",
+    "chsName": "任意挑选",
+    "chtName": "任君挑選",
+    "characters": [
+      "Euden",
+      "Mym",
+      "Beren",
+      "Nedrick",
+      "Primal Brunhilda"
+    ]
+  },
+  "445": {
+    "enName": "Zethia's New Talent",
+    "jpName": "新しい得意技",
+    "chsName": "新能力",
+    "chtName": "新的特技",
+    "characters": [
+      "Zethia",
+      "Euden",
+      "Ilia",
+      "Nedrick",
+      "Chelle",
+      "Mordecai"
+    ]
+  },
+  "446": {
+    "enName": "Origa's Mortal Enemy",
+    "jpName": "オリガの天敵",
+    "chsName": "奥莉加的天敌",
+    "chtName": "奧莉加的天敵",
+    "characters": [
+      "Origa",
+      "Elisanne",
+      "Basileus",
+      "Harle"
+    ]
+  },
+  "447": {
+    "enName": "The Loveliest Smile",
+    "jpName": "愛の使者キューピッド",
+    "chsName": "愛的使者邱比特",
+    "chtName": "爱之使者丘比特",
+    "characters": [
+      "Cupid",
+      "Euden",
+      "Mym"
+    ]
+  },
+  "448": {
+    "enName": "The Watchman's Dilemma",
+    "jpName": "見張り当番の受難",
+    "chsName": "放哨当值的苦难",
+    "chtName": "夜間守衛的受難",
+    "characters": [
+      "Joachim",
+      "Euden",
+      "Zace",
+	  "Jurota",
+	  "Aoi",
+	  "Serena"
+    ]
+  },
+  "449": {
+    "enName": "Belly Button Business",
+    "jpName": "クラウのおヘソ",
+    "chsName": "库菈乌的肚脐",
+    "chtName": "克菈兒的肚臍",
+    "characters": [
+      "Cleo",
+      "Kuzunoha",
+      "Alberius",
+	  "Luca",
+	  "Albert"
+    ]
+  }
+>>>>>>> 8f2ef23269e971cccca01d4410241df9c847247f
 }
