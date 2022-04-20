@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * {
 	margin: 0;
 	font-family: monospace;
@@ -435,5 +434,4 @@ a.comicCard:hover .comicNumb,a.comicCard:hover .comicName{
 	max-width: 608px;
 	width: 100%;
 	border: 2px solid black;
->>>>>>> 9d2acf49182948e1aac88b57243321743f8180d5
 }
