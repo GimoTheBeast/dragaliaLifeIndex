@@ -1,2 +1,2 @@
-responsive design oh my goooooooooood
-	
+- fix responsive design
+- support for adventurer guide and notte's rad plot synopsys

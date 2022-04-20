@@ -35,9 +35,12 @@ async function init() {
 	else {
 		numb = numb.toString()
 	}
-	let navHeader = document.querySelector(".top")
-	let navHTML = "<a href='index.html?lan=" + lan + "'> Dragalia Comic Index</a> | <span>Search bar goes here lmao</span> | Jump to Comic: <form action='comic.html'><input type='text' name='no' placeholder='Comic Number' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
-	navHeader.innerHTML = navHTML + navHeader.innerHTML
+	let navHTML = "<a href='index.html?lan=" + lan + "'> Dragalia Comic Index</a> | <form action='search.html'><input type='text' name='cq' placeholder='Search...'><input type='hidden' name='lan' value='" + lan + "'></form> | <form action='comic.html'><input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
+	document.querySelector(".top").innerHTML = navHTML + document.querySelector(".top").innerHTML
+	let localOutput = '<a href="comic.html?no=' + `${numb}` + '&lan=en" ' + `${lan == "en" ? 'class="selected"' : 'class'}` + '>ENG</a> <a href="comic.html?no=' + `${numb}` + '&lan=jp" ' + `${lan == "jp" ? 'class="selected"' : 'class'}` + '>日本語</a> <a href="comic.html?no=' + `${numb}` + '&lan=chs" ' + `${lan == "chs" ? 'class="selected"' : 'class'}` + '>简</a> <a href="comic.html?no=' + `${numb}` + '&lan=cht" ' +  `${lan == "cht" ? 'class="selected"' : 'class'}` + '> 繁</a>'
+	document.querySelector('.top .local').innerHTML += localOutput
+	document.querySelector('li.local').innerHTML += localOutput
+	
 	loadComicBelow();
 };
 function loadComicBelow(){
@@ -62,25 +65,26 @@ function loadComicBelow(){
 	let outputHTML = "<h1>" + comicObject[numb][targetLocal] + "</h1>" + "<div class='info'><h3>Characters</h3>" + characters + "</div>" + "<img src='" + lan + "/" + numb + ".png'>"	
 	container.innerHTML += outputHTML
 	document.title = comicObject[numb][targetLocal]
-	let conNumb = Number(numb) + 1
-	conNumb = conNumb.toString()
-	if (conNumb.length == 1) {
-		numb = "00" + conNumb.toString()
-	}
-	else if (conNumb.length == 2){
-		numb = "0" + conNumb.toString()
-	}
-	else {
-		numb = conNumb.toString()
-	}
-	if (history.pushState) {
-		window.history.pushState("test","test","comic.html?no=" + numb + "&lan=" + lan)
-	}
+	
 }
 init();
 window.addEventListener('scroll',()=>{
     if(window.scrollY + window.innerHeight >= 
     document.documentElement.scrollHeight){
+		let conNumb = Number(numb) + 1
+		conNumb = conNumb.toString()
+		if (conNumb.length == 1) {
+			numb = "00" + conNumb.toString()
+		}
+		else if (conNumb.length == 2){
+			numb = "0" + conNumb.toString()
+		}
+		else {
+			numb = conNumb.toString()
+		}
+		if (history.pushState) {
+			window.history.pushState("test","test","comic.html?no=" + numb + "&lan=" + lan)
+		}
 		loadComicBelow()
     }
 })
