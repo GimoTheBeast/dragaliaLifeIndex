@@ -1,3 +1,236 @@
+<<<<<<< HEAD
+* {
+	margin: 0;
+	font-family: monospace;
+}
+html{
+	width: 100vw;
+}
+body{
+	width: 100vw;
+}
+.error {
+	color: red;
+}
+.hidden {
+	display: none;
+}
+.topCollapse{
+	display: none;
+	background: #8cd3b1;
+	font-size: 25px;
+	padding: 5px;
+	color: white;
+	position: relative;
+	margin-bottom: 10px;
+	box-shadow: 0 2px 2px rgba(0,0,0,.5);
+	height: 30px;
+	line-height: 30px;
+	width: 100vw;
+	justify-content: space-between
+}
+.topCollapse a {
+	color: black;
+	text-decoration: none;
+	margin-left: 5px;
+}
+.topCollapse button{
+	height:	30px;
+	width: 30px;
+	color: black;
+	background: transparent;
+	border: 0;
+	padding: 0;
+	margin-right: 4vw;
+}
+#collapse{
+	background: #70a98e;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	box-shadow: inset 0 -2px 2px rgba(0,0,0,.5);
+	font-size: 20px;
+}
+#collapse ul{
+	list-style: none;
+	padding: 10px;
+}
+#collapse ul li {
+	padding: 10px;
+	color: black;
+}
+#collapse ul li form{
+	display: flex;
+}
+#collapse ul li input{
+	height: 25px;
+	font-size: 20px;
+	border: 0;
+	border-radius: 5px;
+	margin-right: 0;
+}
+#collapse ul li input:nth-of-type(1){
+	border-radius: 8px 0 0 8px;
+	padding-left: 8px;
+}
+#collapse ul li input[type="submit"]{
+	color: black;
+	background: #8cd3b1;
+	border-radius: 0 8px 8px 0;
+}
+#collapse .local{
+	height: 30px;
+	line-height: 30px;
+}
+#collapse .local a{
+	color: black;
+	text-decoration: none;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#collapse .local a.selected{
+	background: black;
+	color: #70a98e;
+	border-radius: 4px;
+	font-weight: bold;
+}
+.top {
+	background: #8cd3b1;
+	display: flex;
+	font-size: 20px;
+	padding: 5px;
+	color: black;
+	position: relative;
+	margin-bottom: 10px;
+	box-shadow: 0 2px 2px rgba(0,0,0,.5)
+}
+.top a {
+	color: black;
+	text-decoration: none;
+}
+.top .local a{
+	padding-left: 2px;
+	padding-right: 2px;
+	
+}
+.top .local a:hover, #collapse .local a:hover{
+	font-weight: bold;
+}
+.top .local{
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin-right: 25px;
+	height: 100%;	
+	display: flex;
+	text-height: 33px;
+	align-items: center;
+	gap: 5px;
+}
+.top .selected{
+	background: black;
+	color: #8cd3b1;
+	font-weight: bold;
+	border-radius: 4px;
+}
+.icon {
+height: 100%;
+position: relative;
+margin-right: 30px;
+}
+.icon svg{
+	height: 100%;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+}
+.top .icon {
+height: 80%;
+}
+	/* cards */
+.comics{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	column-gap: 10px;
+	row-gap: 10px;
+	width: 90%;
+	margin: 0 auto;
+}
+a.comicCard{
+	background: #444;
+	border-radius: 10px;
+	overflow: hidden;
+	position: relative;
+	transition: all 400ms;
+	width: 100%;
+	text-decoration: none;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+}
+a.comicCard:hover{
+	
+	transform: scale(103%);
+}
+a.comicCard:hover .comicNumb,a.comicCard:hover .comicName{
+	background: rgba(0,0,0,.5)
+}
+.comicNumb{
+	transition: all 400ms;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,.3);
+	padding: .3rem;
+	color: white;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.comicName{
+	transition: all 400ms;
+	color: white;
+	padding: 4px;
+	font-size: 20px;
+	position: absolute;
+	bottom: 0;
+	background: rgba(0,0,0,.3);
+	width: 100%;
+}
+.thumb{
+	width: 100%;
+}
+@media (min-width: 1001px) {
+	#collapse {
+		display: none;
+	}
+}
+@media (max-width: 1200px) {
+	.comics{
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+@media (max-width: 1000px) {
+	.top{
+		display: none;
+	}
+	.topCollapse{
+		display: flex;
+	}
+}
+@media (max-width: 800px) {
+	.comics{
+		grid-template-columns: 1fr 1fr;
+	}
+}
+/* comics */
+.comic {
+	text-align: center;
+	width: 100%;
+}
+.comic img{
+	max-width: 608px;
+	width: 100%;
+	border: 2px solid black;
+=======
 * {
 	margin: 0;
 	font-family: monospace;
@@ -202,4 +435,5 @@ a.comicCard:hover .comicNumb,a.comicCard:hover .comicName{
 	max-width: 608px;
 	width: 100%;
 	border: 2px solid black;
+>>>>>>> 9d2acf49182948e1aac88b57243321743f8180d5
 }
