@@ -22,18 +22,14 @@ async function init() {
 	
 	//header
 	/*
-	<a href='index.php?lan=$local'>Dragalia Comic Index</a> | 
-	<span>Search bar goes here lmao</span> | 
-	Jump to Comic: 
-	<form action='comic.html'>
-		<input type='text' name='no' placeholder='Comic Number' pattern='[0-9]+'>
-		<input type='hidden' name='lan' value='$local'>
-	</form>*/
-	let navHeader = document.querySelector(".top")
+	
+	*/
 	let navHTML = "<a href='index.html?lan=" + lan + "'> Dragalia Comic Index</a> | <form action='search.html'><input type='text' name='cq' placeholder='Search...'><input type='hidden' name='lan' value='" + lan + "'></form> | <form action='comic.html'><input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
-	navHeader.innerHTML = navHTML + navHeader.innerHTML
-	
-	
+	document.querySelector(".top").innerHTML = navHTML + document.querySelector(".top").innerHTML
+
+	let localOutput = '<a href="index.html?lan=en" ' + `${lan == "en" ? 'class="selected"' : 'class'}` + '>ENG</a> <a href="index.html?lan=jp" ' + `${lan == "jp" ? 'class="selected"' : 'class'}` + '>日本語</a> <a href="index.html?lan=chs" ' + `${lan == "chs" ? 'class="selected"' : 'class'}` + '>简</a> <a href="index.html?lan=cht" ' +  `${lan == "cht" ? 'class="selected"' : 'class'}` + '> 繁</a>'
+	document.querySelector('.top .local').innerHTML += localOutput
+	document.querySelector('li.local').innerHTML += localOutput
 };
 function loadCard(numCards = 24){
 	if (currentComic == comicArray[comicArray.length]) {
