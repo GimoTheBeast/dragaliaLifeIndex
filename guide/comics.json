@@ -1,0 +1,62 @@
+{
+  "001": {
+    "enName": "Elements?",
+    "jpName": "属性とは？",
+    "chsName": "什么是属性？",
+    "chtName": "屬性是什麼？"
+  },
+  "002": {
+    "enName": "Equipment?",
+    "jpName": "装備とは？",
+    "chsName": "什么是装备？",
+    "chtName": "裝備是什麼？"
+  },
+  "003": {
+    "enName": "Weapons?",
+    "jpName": "武器とは？",
+    "chsName": "什么是武器？",
+    "chtName": "武器是什麼？"
+  },
+  "004": {
+    "enName": "Wyrmprints?",
+    "jpName": "竜輝の護符とは？",
+    "chsName": "什么是龙辉护符？",
+    "chtName": "龍輝護符是什麼？"
+  },
+  "005": {
+    "enName": "Abilities?",
+    "jpName": "アビリティとは？",
+    "chsName": "什么是能力？",
+    "chtName": "能力是什麼？"
+  },
+  "006": {
+    "enName": "Shapeshifting?",
+    "jpName": "竜化とは？",
+    "chsName": "什么是龙化？",
+    "chtName": "龍化是什麼？"
+  },
+  "007": {
+    "enName": "Upgrading Adventurers?",
+    "jpName": "キャラクターを強くするには？",
+    "chsName": "要怎么强化角色？",
+    "chtName": "角色要如何變強？"
+  },
+  "008": {
+    "enName": "Building?",
+    "jpName": "建築とは？",
+    "chsName": "什么是建造？",
+    "chtName": "建築是什麼？"
+  },
+  "009": {
+    "enName": "Dragon Gifts?",
+    "jpName": "ドラゴンへの贈り物とは？",
+    "chsName": "什么是送给龙的礼物？",
+    "chtName": "給龍族的禮物是什麼？"
+  },
+  "010": {
+    "enName": "Link Your Nintendo Account!",
+    "jpName": "ニンテンドーアカウントとは？",
+    "chsName": "什么是Nintendo账号？",
+    "chtName": "什麼是Nintendo Account？"
+  }
+}
