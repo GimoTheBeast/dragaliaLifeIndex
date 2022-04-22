@@ -1,0 +1,194 @@
+{
+  "001": {
+    "enName": "The Journey Begins: Part One",
+    "jpName": "王子の旅立ち　その１",
+    "chsName": "王子启程记 其一",
+    "chtName": "王子啟程　其之1 "
+  },
+  "002": {
+    "enName": "The Journey Begins: Part Two",
+    "jpName": "王子の旅立ち　その2",
+    "chsName": "王子启程记 其二",
+    "chtName": "王子啟程　其之2"
+  },
+  "003": {
+    "enName": "The Journey Begins: Part Three",
+    "jpName": "王子の旅立ち　その3",
+    "chsName": "王子启程记 其三",
+    "chtName": "王子啟程　其之3"
+  },
+  "004": {
+    "enName": "The Waterwyrm's Cradle: Part One",
+    "jpName": "青竜の水辺　その1",
+    "chsName": "水边青龙 其一",
+    "chtName": "青龍的水畔　其之1"
+  },
+  "005": {
+    "enName": "The Waterwyrm's Cradle: Part Two",
+    "jpName": "青竜の水辺　その2",
+    "chsName": "水边青龙 其二",
+    "chtName": "青龍的水畔　其之2"
+  },
+  "006": {
+    "enName": "The Flamewyrm's Abode: Part One",
+    "jpName": "緋竜の火山　その1",
+    "chsName": "绯龙火山　其一",
+    "chtName": "緋龍的火山　其之1"
+  },
+  "007": {
+    "enName": "The Flamewyrm's Abode: Part Two",
+    "jpName": "緋竜の火山　その2",
+    "chsName": "绯龙火山　其二",
+    "chtName": "緋龍的火山　其之2"
+  },
+  "008": {
+    "enName": "The Lightwyrm's Roost: Part One",
+    "jpName": "輝竜の山脈　その1",
+    "chsName": "辉龙山脉　其一",
+    "chtName": "輝龍的山脈　其之1"
+  },
+  "009": {
+    "enName": "The Lightwyrm's Roost: Part Two",
+    "jpName": "輝竜の山脈　その2",
+    "chsName": "辉龙山脉　其二",
+    "chtName": "輝龍的山脈　其之2"
+  },
+  "010": {
+    "enName": "Bound: Part One",
+    "jpName": "封じられし者　その1",
+    "chsName": "封印之物 其一",
+    "chtName": "被封印者 其之1"
+  },
+  "011": {
+    "enName": "Bound: Part Two",
+    "jpName": "封じられし者　その2",
+    "chsName": "封印之物　其二",
+    "chtName": "被封印者 其之2"
+  },
+  "012": {
+    "enName": "Bound: Part Three",
+    "jpName": "封じられし者　その3",
+    "chsName": "封印之物　其三",
+    "chtName": "被封印者 其之3"
+  },
+  "013": {
+    "enName": "Bound: Part Four",
+    "jpName": "封じられし者　その4",
+    "chsName": "封印之物　其四",
+    "chtName": "被封印者 其之4"
+  },
+  "014": {
+    "enName": "The Halidom's Crisis: Part One",
+    "jpName": "聖城に起つ　その1",
+    "chsName": "崛起于圣城 其一",
+    "chtName": "聖城崛起　其之1"
+  },
+  "015": {
+    "enName": "The Halidom's Crisis: Part Two",
+    "jpName": "聖城に起つ　その2",
+    "chsName": "崛起于圣城 其二",
+    "chtName": "聖城崛起　其之2"
+  },
+  "016": {
+    "enName": "The Halidom's Crisis: Part Three",
+    "jpName": "聖城に起つ　その3",
+    "chsName": "崛起于圣城 其三",
+    "chtName": "聖城崛起　其之3"
+  },
+  "017": {
+    "enName": "Trek to the Aquapolis: Part One",
+    "jpName": "遠征！水上都市へ　その1",
+    "chsName": "远征！前往水上都市 其一",
+    "chtName": "遠征！前往水上都市　其之1"
+  },
+  "018": {
+    "enName": "Trek to the Aquapolis: Part Two",
+    "jpName": "遠征！水上都市へ　その2",
+    "chsName": "远征！前往水上都市 其二",
+    "chtName": "遠征！前往水上都市　其之2"
+  },
+  "019": {
+    "enName": "Trek to the Aquapolis: Part Three",
+    "jpName": "遠征！水上都市へ　その３",
+    "chsName": "远征！前往水上都市 其三",
+    "chtName": "遠征！前往水上都市　其之3"
+  },
+  "020": {
+    "enName": "Trek to the Aquapolis: Part Four",
+    "jpName": "遠征！水上都市へ　その４",
+    "chsName": "远征！前往水上都市 其四",
+    "chtName": "遠征！前往水上都市　其之4"
+  },
+  "021": {
+    "enName": "Entwining Flames: Part One",
+    "jpName": "からみ合う炎　その１",
+    "chsName": "交织的火焰 其一",
+    "chtName": "交錯之炎　其之１"
+  },
+  "022": {
+    "enName": "Entwining Flames: Part Two",
+    "jpName": "からみ合う炎　その２",
+    "chsName": "交织的火焰 其二",
+    "chtName": "交錯之炎　其之2"
+  },
+  "023": {
+    "enName": "Entwining Flames: Part Three",
+    "jpName": "からみ合う炎　その３",
+    "chsName": "交织的火焰 其三",
+    "chtName": "交錯之炎　其之3"
+  },
+  "024": {
+    "enName": "Entwining Flames: Part Four",
+    "jpName": "からみ合う炎　その４",
+    "chsName": "交织的火焰 其四",
+    "chtName": "交錯之炎　其之4"
+  },
+  "025": {
+    "enName": "The Princess's Party: Part One",
+    "jpName": "Let's Party!　その１",
+    "chsName": "Let's Party！ 其一",
+    "chtName": "Let's Party！　其之1"
+  },
+  "026": {
+    "enName": "The Princess's Party: Part Two",
+    "jpName": "Let's Party!　その２",
+    "chsName": "Let's Party！ 其二",
+    "chtName": "Let's Party！　其之2"
+  },
+  "027": {
+    "enName": "The Princess's Party: Part Three",
+    "jpName": "Let's Party!　その３",
+    "chsName": "Let's Party！ 其三",
+    "chtName": "Let's Party！　其之3"
+  },
+  "028": {
+    "enName": "The Princess's Party: Part Four",
+    "jpName": "Let's Party!　その４",
+    "chsName": "Let's Party！ 其四",
+    "chtName": "Let's Party！　其之4"
+  },
+  "029": {
+    "enName": "Resurgent Despair: Part One",
+    "jpName": "魔神再誕　その１",
+    "chsName": "魔神再诞 其一",
+    "chtName": "魔神再臨　其之1"
+  },
+  "030": {
+    "enName": "Resurgent Despair: Part Two",
+    "jpName": "魔神再誕　その２",
+    "chsName": "魔神再诞 其二",
+    "chtName": "魔神再臨　其之2"
+  },
+  "031": {
+    "enName": "Resurgent Despair: Part Three",
+    "jpName": "魔神再誕　その３",
+    "chsName": "魔神再诞 其三",
+    "chtName": "魔神再臨　其之3"
+  },
+  "032": {
+    "enName": "Resurgent Despair: Part Four",
+    "jpName": "魔神再誕　その４",
+    "chsName": "魔神再诞 其四",
+    "chtName": "魔神再臨　其之4"
+  }
+}
