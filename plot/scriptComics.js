@@ -35,7 +35,7 @@ async function init() {
 	else {
 		numb = numb.toString()
 	}
-	let navHTML = "<a href='index.html?lan=" + lan + "'> ← Adventurer's Guide Index</a> | <form action='comic.html'><input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
+	let navHTML = "<a href='index.html?lan=" + lan + "'> ← Plot Synopsis Index</a> | <form action='comic.html'><input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'><input type='hidden' name='lan' value='" + lan + "'></form>"
 	document.querySelector(".top").innerHTML = navHTML + document.querySelector(".top").innerHTML
 	let localOutput = '<a href="comic.html?no=' + `${numb}` + '&lan=en" ' + `${lan == "en" ? 'class="selected"' : 'class'}` + '>ENG</a> <a href="comic.html?no=' + `${numb}` + '&lan=jp" ' + `${lan == "jp" ? 'class="selected"' : 'class'}` + '>日本語</a> <a href="comic.html?no=' + `${numb}` + '&lan=chs" ' + `${lan == "chs" ? 'class="selected"' : 'class'}` + '>简</a> <a href="comic.html?no=' + `${numb}` + '&lan=cht" ' +  `${lan == "cht" ? 'class="selected"' : 'class'}` + '> 繁</a>'
 	document.querySelector('.top .local').innerHTML += localOutput
