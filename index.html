@@ -20,26 +20,54 @@
 </svg></button>
 	</div>
 	<div id="collapse" class="hidden">
-			<ul>
-				<li>
-					<form action='search.html'>
-						<input type='text' name='cq' placeholder='Search...'>
-						<input type="submit" value="Search">
-					</form>
-				</li>
-				<li>
-					<form action='comic.html'>
-						<input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'>
-						<input type='hidden' name='lan' value='en'>
-						<input type="submit" value="Go">
-					</form>
-				</li>
-				<li class="local"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+		<ul>
+			<li>
+				<form action='search.html'>
+					<input type='text' name='cq' placeholder='Search...'>
+					<input type="submit" value="Search">
+				</form>
+			</li>
+			<li>
+				<form action='comic.html'>
+					<input type='number' name='no' placeholder='Jump to Comic...' pattern='[0-9]+'>
+					<input type='hidden' name='lan' value='en'>
+					<input type="submit" value="Go">
+				</form>
+			</li>
+			<li class="local"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
 </svg></span></li>
 			</ul>
-		</div>
+	</div>
+	<div class="links">
+		 See other Dragalia comics:
+		 <div class="linkList">PLOT | <a href="guide/">GUIDE</a></div>
+		 <br>
+		 <div><button onclick="toggleAbout()">ABOUT THIS SITE</button></div>
+		 </div>
+		 <div id="about" class="hidden">
+			<div>
+				<h1>
+				ABOUT
+				</h1>
+				<button onclick="toggleAbout()">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+				</button>
+				<div>
+				<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+				<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+				<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+				</div>
+				<div>Icons from <a href="https://heroicons.com">Hero Icons</a></div>
+				<div class="bottom"><a href="https://github.com/GimoTheBeast/dragaliaLifeIndex">Github</a> <a href="https://drive.google.com/drive/folders/1bXkT98NrXTGRZWnOAsRxlkRSk1j-3ms9?usp=sharing">Comic Archive</a> <a href="https://docs.google.com/spreadsheets/d/1O2lK3LqHgptcD95kCMJfHLjufJLql6pr8tBt1PVbduw">Dragalia Archive Spreadsheet</a></div>
+			</div>
+		 </div>
+	<hr>
 	<div class='comics'></div>
-	<a class="toTop" href="#top">&#8593;</a> 
 	<script type='text/javascript' src='script.js'></script>
+	<script type='text/javascript'>
+	function toggleAbout() {
+		document.querySelector('#about').classList.toggle('hidden')
+		document.querySelector('body').classList.toggle('disableScroll')
+	}	
+	</script>
 </body>
