@@ -5224,5 +5224,26 @@
 	  "Luca",
 	  "Albert"
     ]
+  },
+  "450": {
+	"enName": "Fire-Roasted Friendship",
+    "jpName": "中庭ランチ",
+    "chsName": "中庭午餐",
+    "chtName": "中庭午餐",
+    "characters": [
+      "Erik",
+      "Luca"
+    ]
+  },
+  "451": {
+	"enName": "The Loyal Customer",
+    "jpName": "怪我の功名",
+    "chsName": "焉知非福",
+    "chtName": "歪打正著",
+    "characters": [
+      "Zace",
+	  "Ranzal",
+      "Luca"
+    ]
   }
 }
